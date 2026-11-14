@@ -41052,9 +41052,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41085,9 +41085,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41114,9 +41114,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41149,9 +41149,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41178,9 +41178,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41213,9 +41213,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41246,9 +41246,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41278,12 +41278,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -41318,9 +41318,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41351,9 +41351,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41382,12 +41382,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41414,9 +41414,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41450,9 +41450,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41479,9 +41479,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41513,9 +41513,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41544,9 +41544,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41582,9 +41582,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41618,9 +41618,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41651,9 +41651,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41679,9 +41679,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41720,9 +41720,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41750,9 +41750,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41787,9 +41787,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41826,9 +41826,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41858,9 +41858,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41899,9 +41899,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -41929,9 +41929,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41962,12 +41962,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -41998,9 +41998,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42035,9 +42035,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42082,9 +42082,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42113,9 +42113,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42145,9 +42145,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42177,10 +42177,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42217,8 +42217,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42245,10 +42245,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42282,8 +42282,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42314,8 +42314,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42346,8 +42346,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42378,8 +42378,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42422,8 +42422,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42449,8 +42449,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42477,8 +42477,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42509,8 +42509,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42547,8 +42547,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42575,8 +42575,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42607,8 +42607,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42636,10 +42636,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42668,8 +42668,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42699,10 +42699,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42732,8 +42732,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42760,8 +42760,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42797,8 +42797,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42830,8 +42830,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42858,8 +42858,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -42888,8 +42888,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -42922,12 +42922,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat",
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -42956,10 +42956,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -42989,8 +42989,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43023,8 +43023,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43057,8 +43057,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43088,8 +43088,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43125,8 +43125,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43163,8 +43163,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43194,8 +43194,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43223,8 +43223,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43253,8 +43253,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -43281,10 +43281,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -43316,8 +43316,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43352,8 +43352,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43386,8 +43386,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43424,8 +43424,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43457,8 +43457,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43490,8 +43490,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43519,8 +43519,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43558,8 +43558,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43588,8 +43588,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43620,8 +43620,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43658,8 +43658,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43691,8 +43691,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43721,8 +43721,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43750,10 +43750,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43781,8 +43781,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43813,8 +43813,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43849,8 +43849,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43879,8 +43879,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43910,8 +43910,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -43941,8 +43941,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -43979,8 +43979,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44008,8 +44008,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44038,10 +44038,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44075,10 +44075,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44115,8 +44115,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44151,8 +44151,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44182,8 +44182,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -44209,8 +44209,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44238,8 +44238,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44269,8 +44269,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44300,8 +44300,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44329,8 +44329,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44357,8 +44357,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44388,8 +44388,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44421,8 +44421,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44454,10 +44454,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44491,8 +44491,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44524,8 +44524,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44553,8 +44553,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44585,14 +44585,14 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_edat",
-      "medical_agents_crdt",
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat",
+      "medical_agents_crdt",
+      "medical_agents_edat",
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -44619,8 +44619,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44646,8 +44646,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44676,8 +44676,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44706,8 +44706,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44742,8 +44742,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44775,8 +44775,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44810,8 +44810,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44840,10 +44840,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44873,8 +44873,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -44902,10 +44902,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 2,
@@ -44938,8 +44938,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44966,8 +44966,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -44996,8 +44996,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45029,10 +45029,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -45064,8 +45064,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45094,10 +45094,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45123,8 +45123,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45151,8 +45151,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45179,10 +45179,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45214,8 +45214,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45246,8 +45246,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45276,8 +45276,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45305,8 +45305,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45339,10 +45339,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -45372,8 +45372,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45402,10 +45402,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45444,8 +45444,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45476,8 +45476,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45509,8 +45509,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45543,8 +45543,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45581,8 +45581,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45612,8 +45612,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45641,8 +45641,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45671,8 +45671,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45700,8 +45700,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45739,8 +45739,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45770,8 +45770,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -45799,8 +45799,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45834,8 +45834,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45862,8 +45862,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45894,8 +45894,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45928,8 +45928,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -45964,8 +45964,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -45994,8 +45994,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46026,8 +46026,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -46056,8 +46056,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46086,8 +46086,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46114,8 +46114,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46153,8 +46153,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46182,8 +46182,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46221,8 +46221,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46254,8 +46254,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46283,8 +46283,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46313,8 +46313,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46342,10 +46342,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -46379,8 +46379,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46412,8 +46412,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46442,8 +46442,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46473,10 +46473,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46505,8 +46505,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46539,8 +46539,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46570,8 +46570,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46607,10 +46607,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46640,10 +46640,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -46683,10 +46683,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -46714,8 +46714,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46744,8 +46744,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46785,8 +46785,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46816,8 +46816,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46849,8 +46849,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -46884,8 +46884,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46913,8 +46913,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46941,8 +46941,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -46969,8 +46969,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -46997,8 +46997,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47031,8 +47031,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47064,8 +47064,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47096,10 +47096,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -47131,8 +47131,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47166,8 +47166,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47195,8 +47195,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47223,12 +47223,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat",
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -47263,8 +47263,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47293,8 +47293,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47325,8 +47325,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47352,8 +47352,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47385,8 +47385,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47416,8 +47416,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47448,8 +47448,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47480,8 +47480,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47509,8 +47509,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47540,8 +47540,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47572,8 +47572,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47606,8 +47606,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47639,8 +47639,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47668,8 +47668,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47716,8 +47716,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47750,8 +47750,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47781,8 +47781,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -47815,8 +47815,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47843,8 +47843,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47876,10 +47876,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -47910,8 +47910,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47943,8 +47943,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -47976,10 +47976,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -48011,8 +48011,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -48041,8 +48041,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -48070,8 +48070,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -48103,8 +48103,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -48133,8 +48133,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -48163,8 +48163,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -48197,8 +48197,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -48229,9 +48229,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -48262,10 +48262,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -48299,8 +48299,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -48328,8 +48328,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -48360,8 +48360,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_agents_crdt",
+      "eye_agents_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -48393,12 +48393,54 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_agents_crdt",
+      "eye_agents_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
     "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
     "first_seen": "2026-11-14T10:44:05+00:00"
+  },
+  "doi:10.1038/s41746-026-03452-1": {
+    "title": "Learning health system frameworks and the integration of artificial intelligence and data science in United States health care: a scoping review",
+    "abstract": "",
+    "authors": [
+      "Rotana M. Radwan",
+      "Hao Dai",
+      "Yao An Lee",
+      "Ronald Ramon",
+      "Wei-han Chen",
+      "Hsin-Yueh Lin",
+      "Ya-Yun Yeh",
+      "Wenxi Huang",
+      "Hongyu Chen",
+      "Tiancheng Zhou",
+      "Darlene C. Adirika",
+      "Kate Luong",
+      "Ying Lu",
+      "Christina Scifres",
+      "Emily C. Webber",
+      "Jingchuan Guo",
+      "Jiang Bian"
+    ],
+    "url": "https://doi.org/10.1038/s41746-026-03452-1",
+    "published": "2026-11-14",
+    "source": "crossref",
+    "source_id": "10.1038/s41746-026-03452-1",
+    "doi": "10.1038/s41746-026-03452-1",
+    "updated": "",
+    "venue": "npj Digital Medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "crossref"
+    ],
+    "matched_queries": [
+      "npj Digital Medicine"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-14T21:39:50+00:00"
   }
 }
