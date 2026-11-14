@@ -104,7 +104,7 @@ def run(days: int = 7, max_items: int = 3000, dry_run: bool = False) -> dict:
         (DATA / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
         (DATA / "history.json").write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
         (DATA / "latest.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
-        build(summary, ROOT / "_site", history)
+        build(summary, ROOT / "_site", catalog, history)
     return summary
 
 

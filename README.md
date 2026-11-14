@@ -9,7 +9,8 @@ A **public, auditable** GitHub Actions + GitHub Pages tracker for Medical AI / M
 - Independent PubMed ESearch/EFetch (**EPDAT, EDAT, CRDT**), arXiv Atom API (**submission window + updated-date sorting**), medRxiv date/cursor API with alternate official host, and Crossref online-publication index queries for a fixed list of journals.
 - Full query audit: query, date field/window, upstream count, fetched count, next cursor, completion/failure and matched IDs.
 - Historical catalog deduplicated by DOI, paper identifier, then *exact normalized title*. Rolling re-checks of the last 7 days and bounded checks of known medRxiv versions across 30 days.
-- **GitHub Pages dashboard** with source completion, papers, keywords and machine-readable `data/latest.json`.
+- **English GitHub Pages dashboard** with a publication calendar, daily paper counts, and combined date, keyword/journal and research-area filters across the full historical catalog. Article cards show journal names or preprint servers rather than retrieval databases.
+- Machine-readable `data/catalog.json`, `data/latest.json` and `data/history.json`, with a query-completion audit on the dashboard.
 - **No AI-generated scientific claims in pipeline**. Candidate grouping and priority are rules-based, not full-paper clinical appraisal. The separate ChatGPT task reads actual reports and verifies important abstracts before summarizing.
 
 ## Install / publish

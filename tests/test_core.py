@@ -1,3 +1,4 @@
+import json
 import unittest
 from datetime import date
 from tracker.core import classify, norm_doi, norm_title, make_paper, merge_catalog
@@ -60,10 +61,41 @@ class TrackerTests(unittest.TestCase):
     def test_site_build(self):
         with TemporaryDirectory() as d:
             site = Path(d)
-            build({"date_la":"2026-11-14","run_at_utc":"2026-11-14T08:00:00Z","audits":[{"source":"pubmed","query_id":"test","date_field":"edat","total":2,"fetched":1,"complete":False,"error":"network","next_cursor":1}],"new_papers":[],"catalog_size":0}, site)
+            build({"date_la":"2026-11-14","window_end_utc_date":"2026-11-14","run_at_utc":"2026-11-14T08:00:00Z","audits":[{"source":"pubmed","query_id":"test","date_field":"edat","total":2,"fetched":1,"complete":False,"error":"network","next_cursor":1}],"new_papers":[],"catalog_size":0}, site, catalog={})
             self.assertTrue((site / 'index.html').exists())
             self.assertTrue((site / 'data/latest.json').exists())
-            self.assertIn('部分检索', (site / 'index.html').read_text())
+            page = (site / 'index.html').read_text()
+            self.assertIn('Partial retrieval', page)
+            self.assertIn('lang="en"', page)
+            self.assertIn('Publication calendar', page)
+
+    def test_site_includes_historical_papers_and_journal_names(self):
+        paper = make_paper(title='Historical glaucoma AI study', abstract='Clinical AI study', authors=['A'], url='https://doi.org/10.1000/archive', published='2025-11-13', source='pubmed', source_id='123', venue='Eye Journal', review_status='peer_reviewed').as_dict()
+        catalog = {'doi:10.1000/archive': paper}
+        with TemporaryDirectory() as d:
+            site = Path(d)
+            build({'window_end_utc_date': '2026-11-14', 'new_papers': [], 'audits': []}, site, catalog=catalog)
+            page = (site / 'index.html').read_text()
+            self.assertIn('Historical glaucoma AI study', page)
+            self.assertIn('Eye Journal', page)
+            self.assertIn('data-published="2025-11-13"', page)
+            self.assertNotIn('>pubmed<', page.lower())
+            self.assertEqual(json.loads((site / 'data/catalog.json').read_text()), catalog)
+            self.assertTrue((site / 'assets/calendar.js').is_file())
+            self.assertTrue((site / 'assets/site.css').is_file())
+
+    def test_site_escapes_journal_names_and_identifies_preprint_servers(self):
+        paper = make_paper(title='Clinical AI <study>', abstract='Clinical AI study', authors=['A'], url='javascript:alert(1)', published='2026-11-13', source='pubmed', source_id='123', venue='Eye <script>alert(1)</script>', review_status='peer_reviewed').as_dict()
+        preprint = make_paper(title='Clinical AI preprint', abstract='Clinical AI study', authors=['A'], url='https://doi.org/10.1101/test', published='2026-11-13', source='medrxiv', source_id='10.1101/test', venue='ophthalmology', review_status='preprint').as_dict()
+        with TemporaryDirectory() as d:
+            site = Path(d)
+            build({'window_end_utc_date': '2026-11-14', 'audits': []}, site, catalog={'journal': paper, 'preprint': preprint})
+            page = (site / 'index.html').read_text()
+            self.assertIn('Eye &lt;script&gt;alert(1)&lt;/script&gt;', page)
+            self.assertIn('Clinical AI &lt;study&gt;', page)
+            self.assertNotIn('javascript:alert(1)', page)
+            self.assertIn('medRxiv', page)
+            self.assertIn('Preprint', page)
 
 if __name__ == '__main__':
     unittest.main()
