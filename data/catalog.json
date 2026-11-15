@@ -13983,7 +13983,7 @@
       "Patrick T Ellinor",
       "Jennifer E Ho"
     ],
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43009242/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998748/",
     "published": "2026-11-01",
     "source": "pubmed",
     "source_id": "42998748",
@@ -48442,5 +48442,4172 @@
     "score": 1,
     "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
     "first_seen": "2026-11-14T21:39:50+00:00"
+  },
+  "doi:10.2147/cia.s639187": {
+    "title": "Ultrasound-Guided Pudendal Nerve Block in Elderly Pelvic Organ Prolapse Surgery: Impact on Anesthetic Consumption and Postoperative Recovery-A Randomized Clinical Trial.",
+    "abstract": "Nerve block is often used for multimodal analgesia. Surgeries for pelvic organ prolapse (POP) in elderly patients are focused on the perineal area, where pudendal nerve block (PNB) can provide analgesia or anaesthesia. There are limited stu…",
+    "authors": [
+      "Chen Yang",
+      "Zhiying Lu",
+      "Yannan Li",
+      "Xiaojuan Yu",
+      "Changdong Hu",
+      "Yisong Chen",
+      "Shaoqiang Huang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034767/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43034767",
+    "doi": "10.2147/cia.s639187",
+    "updated": "",
+    "venue": "Clinical interventions in aging",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.7717/peerj.21894": {
+    "title": "Construction of a machine learning-based risk prediction model for acute stroke in maintenance hemodialysis patients.",
+    "abstract": "Acute stroke represents a significant complication in patients undergoing maintenance hemodialysis (MHD) and is associated with increased mortality rates in this population. This study aimed to construct a prediction model for acute stroke …",
+    "authors": [
+      "Jinping Ying",
+      "Genlian Cai",
+      "Linglin Chen",
+      "Yujiao Zhang",
+      "Rui Zhang",
+      "Fei Han",
+      "Ping Zhang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034765/",
+    "published": "2026-11-11",
+    "source": "pubmed",
+    "source_id": "43034765",
+    "doi": "10.7717/peerj.21894",
+    "updated": "",
+    "venue": "PeerJ",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.2147/idr.s626496": {
+    "title": "Integrating Artificial Intelligence with High-Throughput Biological Testing for Antimicrobial Drug Discovery.",
+    "abstract": "Antimicrobial resistance is eroding the effectiveness of existing antibiotics, while conventional discovery continues to yield few clinically useful chemical classes. This critical narrative review evaluates how artificial intelligence (AI)…",
+    "authors": [
+      "Surbhi Sharma",
+      "Fadi Shehadeh",
+      "Jacob K McPherson",
+      "Paul P Sotiriadis",
+      "Eleftherios Mylonakis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034742/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43034742",
+    "doi": "10.2147/idr.s626496",
+    "updated": "",
+    "venue": "Infection and drug resistance",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1155/ijfo/6956918": {
+    "title": "Probiotics and Prebiotics in Restoring Gastrointestinal Microbiota Dysbiosis: Emerging Alternatives to Antibiotic Therapy.",
+    "abstract": "The human gastrointestinal (GI) microbiota is a complex and dynamic microbial ecosystem that plays a fundamental role in maintaining host metabolism, immune homeostasis, intestinal barrier integrity, and protection against pathogenic microo…",
+    "authors": [
+      "Tigistu Goa",
+      "Tesfaye Wolde",
+      "Elshaday Sahilu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034624/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034624",
+    "doi": "10.1155/ijfo/6956918",
+    "updated": "",
+    "venue": "International journal of food science",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1093/asj/sjag250": {
+    "title": "Optimizing Rib Remodeling: A Data-Driven Model for Personalized Waist Contouring.",
+    "abstract": "Rib cage remodeling procedures, like rib osteotomy with osteosynthesis, have shown promise for waist narrowing in aesthetic surgery. However, the ideal osteotomy location and bending angle remain poorly defined. This preclinical, proof-of-c…",
+    "authors": [
+      "Emily E Zona",
+      "Rishith R Mereddy",
+      "Aidan W O'Shea",
+      "Keenan S Fine",
+      "Madeline G Tierney",
+      "Peter J Wirth",
+      "Ellen C Via",
+      "Ahmed M Afifi"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034290/",
+    "published": "2026-11-15",
+    "source": "pubmed",
+    "source_id": "43034290",
+    "doi": "10.1093/asj/sjag250",
+    "updated": "",
+    "venue": "Aesthetic surgery journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s13346-026-02237-z": {
+    "title": "Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.",
+    "abstract": "Recent advances in precision oncology fueled the development of nanotherapeutics,​ molecularly targeted drugs, engineered immunotherapies, RNA therapeutics, and smart biomaterials for more selective cancer treatment. However, long-term ther…",
+    "authors": [
+      "Vivek Kumar",
+      "Priyanka Batra",
+      "Nivedita Das",
+      "Pravin Shende"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034267/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034267",
+    "doi": "10.1007/s13346-026-02237-z",
+    "updated": "",
+    "venue": "Drug delivery and translational research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s00345-026-06928-7": {
+    "title": "Navigating complexity: applying machine learning to improve SWL outcome prediction.",
+    "abstract": "Shock wave lithotripsy (SWL) remains a cornerstone of non-invasive urolithiasis treatment, yet its success is highly variable and difficult to predict using traditional linear statistical models. Traditional models often fail to account for…",
+    "authors": [
+      "Leonard Perpepaj",
+      "Vineet Gauhar",
+      "Deepak Ragoori",
+      "Ratan Maurya",
+      "Shilpa Gite",
+      "Het Sevalia",
+      "Hatem Kamkoum",
+      "Andrea Benedetto Galosi",
+      "Andrea Gregori",
+      "Bhaskar Kumar Somani",
+      "Carlotta Nedbal"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034263/",
+    "published": "2026-11-15",
+    "source": "pubmed",
+    "source_id": "43034263",
+    "doi": "10.1007/s00345-026-06928-7",
+    "updated": "",
+    "venue": "World journal of urology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1186/s41747-026-00832-w": {
+    "title": "Diagnostic accuracy and reliability of susceptibility map-weighted imaging in patients with clinically uncertain parkinsonian syndromes.",
+    "abstract": "Parkinson's disease (PD) is characterized by degeneration of dopaminergic neurons in the substantia nigra, accompanied by increased iron accumulation, particularly in the nigrosome-1 subregion. Differentiating neurodegenerative disorders li…",
+    "authors": [
+      "Elon D Wallert",
+      "Martijn Beudel",
+      "Vera C Keil",
+      "Esther Sánchez Aliaga",
+      "Frederik Barkhof",
+      "Tom van Mierlo",
+      "Jeroen Blankevoort",
+      "Henk W Berendse",
+      "Rob M A de Bie",
+      "Jan Booij",
+      "Elsmarieke van de Giessen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034231/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034231",
+    "doi": "10.1186/s41747-026-00832-w",
+    "updated": "",
+    "venue": "European radiology experimental",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1186/s12909-026-10736-3": {
+    "title": "Artificial intelligence and clinical reasoning - a qualitative study with general practice trainees in Germany.",
+    "abstract": "General practitioners face high complexity in clinical decision-making. Large language models (LLMs) may support clinical reasoning, but their impact on decision-making processes and postgraduate medical training remains unclear. This quali…",
+    "authors": [
+      "Andreas Christian Dreher",
+      "Hendrik Sauer",
+      "Attila Altiner",
+      "Simon Schwill"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034204/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034204",
+    "doi": "10.1186/s12909-026-10736-3",
+    "updated": "",
+    "venue": "BMC medical education",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1038/s44401-026-00121-z": {
+    "title": "Personas shift clinical action thresholds in large language models.",
+    "abstract": "Clinical large language model (LLM) deployment is shifting from feasibility to liability, while current guidance largely treats model behavior as a control problem. We tested whether decision-style system prompts shift clinical action thres…",
+    "authors": [
+      "Eyal Klang",
+      "Alon Gorenshtein",
+      "Mahmud Omar",
+      "Yiftach Barash",
+      "Girish N Nadkarni"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034186/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034186",
+    "doi": "10.1038/s44401-026-00121-z",
+    "updated": "",
+    "venue": "npj health systems",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1038/s41390-026-05665-2": {
+    "title": "A pulse oximetry warning system predicts severity of late-onset sepsis in very low birth weight neonates.",
+    "abstract": "Late-onset sepsis (LOS) causes morbidity and mortality in very-low birthweight (VLBW) neonates. We previously developed a machine learning model, the Pulse Oximetry Warning System (POWS), to predict LOS in the next 24 h. The neonatal Sequen…",
+    "authors": [
+      "Eliza R Gentzler",
+      "Sherry L Kausch",
+      "Joseph Isler",
+      "Douglas Lake",
+      "Rakesh Sahni",
+      "Karen D Fairchild",
+      "Nimrod Goldshtrom",
+      "Brynne A Sullivan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034165/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034165",
+    "doi": "10.1038/s41390-026-05665-2",
+    "updated": "",
+    "venue": "Pediatric research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1186/s12885-026-16557-3": {
+    "title": "Preoperative prediction of lymphovascular space invasion in early-stage cervical cancer using a deep learning-based 3D super-resolution MRI radiomics model.",
+    "abstract": "Lymphovascular space invasion (LVSI) is a critical prognostic factor guiding adjuvant therapy in early-stage cervical cancer, yet its preoperative assessment is often limited by the spatial resolution of standard MRI. This study aimed to in…",
+    "authors": [
+      "Yan Guo",
+      "Yongqing Ye",
+      "Qinglin Mu",
+      "Wenguang Huang",
+      "Shigang Luo"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034156/",
+    "published": "2026-11-15",
+    "source": "pubmed",
+    "source_id": "43034156",
+    "doi": "10.1186/s12885-026-16557-3",
+    "updated": "",
+    "venue": "BMC cancer",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.redare.2026.502232": {
+    "title": "Effectiveness and safety of lumbar erector spinae plane block versus no locoregional block in hip surgery: a randomized controlled trial.",
+    "abstract": "Ultrasound-guided regional anaesthesia in hip surgery has been shown to reduce the need for opioids and conventional analgesics, facilitate ambulation and early recovery, improve respiratory dynamics, and reduce the incidence of venous thro…",
+    "authors": [
+      "L García-Reza",
+      "J Pereira Loureiro",
+      "J Rivadulla Brey",
+      "S Raposeiras-Roubín",
+      "J Aguayo Arjona",
+      "M Pereira Loureiro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034040/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43034040",
+    "doi": "10.1016/j.redare.2026.502232",
+    "updated": "",
+    "venue": "Revista espanola de anestesiologia y reanimacion",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.neuroimage.2026.122344": {
+    "title": "From features to digital biomarkers: EEG-fNIRS classification pipelines for brain monitoring.",
+    "abstract": "Electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS) are widely used for noninvasive brain monitoring in clinical and cognitive applications, where machine learning-based classification has become increasingly prev…",
+    "authors": [
+      "Radana Vilimkova Kahankova",
+      "Andrea Vinklerova",
+      "Jarosław Zygarlicki",
+      "Amir F Al-Bakri",
+      "Aleksandra Kawala-Sterniuk"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033973/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033973",
+    "doi": "10.1016/j.neuroimage.2026.122344",
+    "updated": "",
+    "venue": "NeuroImage",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.virusres.2026.199838": {
+    "title": "Viro-BERT: Whole-Genome Attention for Robust Viral Pathogen Classification from Next-Generation Sequencing Data.",
+    "abstract": "Classifying viral pathogens from next-generation sequencing (NGS) data is central to diagnosis and genomic surveillance. Most deep learning classifiers, however, read only a fixed window at the start of each genome, typically a few hundred …",
+    "authors": [
+      "Sami Dhahbi",
+      "Anas Bilal",
+      "Talha Mahboob Alam",
+      "Mouhebeddine Berrima",
+      "Amina Magdich",
+      "Hamdy Morsy"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033921/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033921",
+    "doi": "10.1016/j.virusres.2026.199838",
+    "updated": "",
+    "venue": "Virus research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.annepidem.2026.110319": {
+    "title": "Overcoming High Volume and Complexity: Developing a Large Language Model-Assisted Scoping Review Method for Identifying Long-term Caesarean Section Outcomes.",
+    "abstract": "Rapid growth in medical literature limits traditional systematic review methods, particularly in high-volume fields like maternity care. This paper presents a novel methodological approach using a hybrid workflow that combines Large Languag…",
+    "authors": [
+      "Edwina Mead",
+      "Darren Rajit",
+      "Vanessa Scarf",
+      "Emily Callander"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033879/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033879",
+    "doi": "10.1016/j.annepidem.2026.110319",
+    "updated": "",
+    "venue": "Annals of epidemiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.ahj.2026.107655": {
+    "title": "Machine-Learning Derived Individual Risk Prediction in Congenital Heart Surgery: Development and internal validation of risk prediction models for in-hospital mortality after congenital heart surgery using data from the Pediatric Cardiac Critical Care Consortium (PC4) registry.",
+    "abstract": "Machine learning (ML) methods may improve prediction of individual risk of mortality risk after congenital heart surgery (CHD) by identifying nonlinear relationships/novel combinations of variables. Improved risk discrimination may improve …",
+    "authors": [
+      "Michael L O'Byrne",
+      "Jing Huang",
+      "Jennifer A Faerber",
+      "Yuan-Shung V Huang",
+      "Kiona Y Allen",
+      "Mousumi Banerjee",
+      "Eric M Graham",
+      "Heather M Griffis",
+      "Javier J Lasa",
+      "Jane W Newburger",
+      "Matthew J O'Connor",
+      "Kurt R Schumacher",
+      "Andrew C Glatz",
+      "Sara K Pasquali",
+      "J William Gaynor"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033839/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033839",
+    "doi": "10.1016/j.ahj.2026.107655",
+    "updated": "",
+    "venue": "American heart journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.bbrc.2026.154872": {
+    "title": "Microplastics (MPs)-associated chemical components are associated with hepatocellular carcinoma (HCC) progression via genomic instability and spatial microenvironment remodeling: A study based on integrated multi-omics analysis.",
+    "abstract": "Microplastics (MPs) and their toxic components (BPA, DBP, DEHP) pose global health threats, with the liver as primary target. The mechanisms by which MPs may contribute to hepatocellular carcinoma (HCC) progression and spatial microenvironm…",
+    "authors": [
+      "Yuanyuan Chen",
+      "Huikang Yao",
+      "Yang Yu",
+      "Weiwei Zhu",
+      "Maoming Xiong",
+      "Siyu Yuan",
+      "Mingqing Wang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033798/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43033798",
+    "doi": "10.1016/j.bbrc.2026.154872",
+    "updated": "",
+    "venue": "Biochemical and biophysical research communications",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.cmpb.2026.109717": {
+    "title": "Domain shift-aware evaluation of deep learning and radiomics-based machine learning in multi-vendor mammography.",
+    "abstract": "Artificial intelligence models for mammography are commonly developed under relatively homogeneous data conditions but are increasingly expected to operate across heterogeneous imaging environments, where domain shifts can substantially deg…",
+    "authors": [
+      "Ye Jin Kim",
+      "Jae Won Seo",
+      "Young Jae Kim",
+      "Kwang Gi Kim"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033788/",
+    "published": "2026-11-11",
+    "source": "pubmed",
+    "source_id": "43033788",
+    "doi": "10.1016/j.cmpb.2026.109717",
+    "updated": "",
+    "venue": "Computer methods and programs in biomedicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.jsurg.2026.104252": {
+    "title": "Multidisciplinary Learning Profiles in Surgical Services: A VARK and Experiential Learning Theory Analysis.",
+    "abstract": "Surgical services engage multidisciplinary residents from various specialties; however, the educational delivery frequently adopts a \"one-size-fits-all\" model. This reliance on passive, aural-visual instruction may not adequately address re…",
+    "authors": [
+      "Lauryn Alley Ullrich",
+      "Olawunmi Obisesan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033687/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033687",
+    "doi": "10.1016/j.jsurg.2026.104252",
+    "updated": "",
+    "venue": "Journal of surgical education",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.psychres.2026.117592": {
+    "title": "Simultaneous EEG-fMRI in major depressive disorder: A systematic review of brain networks, neurovascular coupling, and clinical correlates.",
+    "abstract": "Simultaneous electroencephalography-functional magnetic resonance imaging (EEG-fMRI) offers unique potential to characterize brain network dysfunction and neurovascular coupling in major depressive disorder (MDD). However, the field lacks a…",
+    "authors": [
+      "Vihaan Sahu",
+      "Tanmay Jape",
+      "Mohith Balakrishnan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033641/",
+    "published": "2026-11-12",
+    "source": "pubmed",
+    "source_id": "43033641",
+    "doi": "10.1016/j.psychres.2026.117592",
+    "updated": "",
+    "venue": "Psychiatry research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.hrtlng.2026.103007": {
+    "title": "Development and validation of an ML-driven risk prediction model for stroke-heart syndrome after acute ischemic stroke.",
+    "abstract": "Existing prediction models for stroke-heart syndrome (SHS) after acute ischemic stroke (AIS) have limited generalizability due to population heterogeneity. To develop and validate a generalizable risk prediction model for SHS following AIS.…",
+    "authors": [
+      "Qiyun Long",
+      "Zejiang Liu",
+      "Qin Guo",
+      "Xuhui Song",
+      "Sheng Lin",
+      "Xing Qi",
+      "Huaguo Wang",
+      "Yongcan Guo"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033570/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033570",
+    "doi": "10.1016/j.hrtlng.2026.103007",
+    "updated": "",
+    "venue": "Heart & lung : the journal of critical care",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.ijmedinf.2026.106811": {
+    "title": "Self-report label bias in machine learning screening for undiagnosed diabetes: development, validation and offline on-device deployment of an interpretable HbA1c-anchored tool.",
+    "abstract": "Machine-learning models for undiagnosed diabetes are often trained on self-reported diagnosis, a label that depends on access to testing, and few are compared with guideline rules or deployed clinically. To quantify how the training label c…",
+    "authors": [
+      "Safiul Haque Chowdhury",
+      "Rakib Ahammed Diptho",
+      "Pial Ghosh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033525/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43033525",
+    "doi": "10.1016/j.ijmedinf.2026.106811",
+    "updated": "",
+    "venue": "International journal of medical informatics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1093/sleep/zsag295": {
+    "title": "Contactless Oxygen Desaturation Prediction and Oxygen Desaturation Index (ODI) Estimation from Nocturnal Breathing Sounds via Deep Learning.",
+    "abstract": "Intermittent hypoxemia is increasingly recognized as a stronger predictor of cardiovascular morbidity and mortality in obstructive sleep apnea (OSA) than the apnea-hypopnea index (AHI). We developed a sound-based AI model to detect oxygen d…",
+    "authors": [
+      "Hayun Choi",
+      "EunSung Cho",
+      "Seunghun Kim",
+      "Sungjin Heo",
+      "Sungeun Moon",
+      "Joonki Hong",
+      "Dongheon Lee",
+      "Sujin Lee",
+      "Jeong-Whun Kim",
+      "In-Young Yoon"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033413/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033413",
+    "doi": "10.1093/sleep/zsag295",
+    "updated": "",
+    "venue": "Sleep",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s10549-026-08122-0": {
+    "title": "Computed tomography derived cardiometabolic biomarkers in high-risk breast cancer using fully automated deep learning algorithms.",
+    "abstract": "Cardiometabolic disease and obesity are important factors when considering breast cancer risk and survivorship. We aimed to utilize a fully automated deep learning algorithm to evaluate CT-derived cardiometabolic biomarkers in patients with…",
+    "authors": [
+      "Terrence C Tsou",
+      "Zhao Yang",
+      "Tingchang Wang",
+      "Hanfei Qi",
+      "Amanda Blackford",
+      "Kala Visvanathan",
+      "Ronald M Summers",
+      "Jennifer Y Sheng"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033331/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033331",
+    "doi": "10.1007/s10549-026-08122-0",
+    "updated": "",
+    "venue": "Breast cancer research and treatment",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s11274-026-05392-0": {
+    "title": "An AI-designed, recombinantly produced FtsZ-directed peptide with in vitro activity against pan-drug-resistant clinical isolates.",
+    "abstract": "Antimicrobial resistance is outpacing the antibiotic pipeline, yet antimicrobial peptides (AMPs) - the most-cited alternative class - remain constrained by proteolytic instability, host toxicity, and the cost of solid-phase synthesis. We re…",
+    "authors": [
+      "Yousif I Yousif",
+      "Lina Qays Yaseen",
+      "Ahmed AbdulJabbar Suleiman"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033290/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033290",
+    "doi": "10.1007/s11274-026-05392-0",
+    "updated": "",
+    "venue": "World journal of microbiology & biotechnology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s00234-026-04232-0": {
+    "title": "Tumor-masked structural connectomics for assessing tract-specific white matter disruption associated with glioma aggressiveness: an interpretable machine learning pilot study.",
+    "abstract": "To assess the feasibility of personalized tumor-masked structural connectomics combined with interpretable machine learning (ML) for differentiating low-grade gliomas (LGG) from high-grade gliomas (HGG), and to identify candidate tract-spec…",
+    "authors": [
+      "Pamela Franco",
+      "Cristian Montalba",
+      "Ignacio Espinoza",
+      "M Daniela Cornejo",
+      "Francisco Torres",
+      "Carlos Bennett",
+      "Steren Chabert",
+      "Rodrigo Salas"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033259/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033259",
+    "doi": "10.1007/s00234-026-04232-0",
+    "updated": "",
+    "venue": "Neuroradiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s00234-026-04240-0": {
+    "title": "MRI Radiomics and Deep Learning for Differentiating Spinal Tuberculosis from Spinal Metastasis: A Multicenter Study.",
+    "abstract": "To develop radiomics model, 2D deep learning (2D DL) model, 2.5D deep learning (2.5D DL) model, 3D deep learning (3D DL) model, and their fusion models to differentiate spinal tuberculosis (STB) from spinal metastasis (SM) based on MR imagi…",
+    "authors": [
+      "Zaoqiang Zhang",
+      "Jianan Chen",
+      "Xiang Wang",
+      "Jincheng Qiu",
+      "Nianchun Liao",
+      "Wangim Choi",
+      "Song Liu",
+      "Huihong Shi",
+      "Wenjun Hu",
+      "Wei Xu",
+      "Bo Gao",
+      "Xianjian Qiu",
+      "Youxi Lin",
+      "Zhihuai Deng",
+      "Anjing Liang",
+      "Wenjie Gao",
+      "Dongsheng Huang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033258/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033258",
+    "doi": "10.1007/s00234-026-04240-0",
+    "updated": "",
+    "venue": "Neuroradiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1007/s00417-026-07618-1": {
+    "title": "The integral role of artificial intelligence models in retinal detachment diagnostics: a systematic review and meta-analysis.",
+    "abstract": "Retinal detachment (RD) is a vision-threatening condition requiring prompt diagnosis and management to optimize visual outcomes. Artificial intelligence (AI)-based machine learning (ML) and deep learning (DL) models have demonstrated promis…",
+    "authors": [
+      "Dimitra Mitsopoulou",
+      "Ilias Georgalas",
+      "Andreas Katsimpris",
+      "Petroula Mitri",
+      "Ioannis D Apostolopoulos",
+      "Petros Petrou",
+      "Eirini Maliagkani"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033233/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033233",
+    "doi": "10.1007/s00417-026-07618-1",
+    "updated": "",
+    "venue": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_epdat",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1016/j.jacasi.2026.08.044": {
+    "title": "Sex Differences in Clinical Presentation and Outcomes in Chronic Thromboembolic Pulmonary Hypertension: A Japanese Registry.",
+    "abstract": "Sex-related differences in chronic thromboembolic pulmonary hypertension (CTEPH) remain incompletely defined. The authors aimed to evaluate sex differences in clinical presentation, treatment response, and outcomes in a nationwide Japanese …",
+    "authors": [
+      "Keiji Kimuro",
+      "Kohei Masaki",
+      "Masayuki Hirose",
+      "Takumi Inami",
+      "Yu Taniguchi",
+      "Shiro Adachi",
+      "Kazuya Hosokawa",
+      "Jun Yamashita",
+      "Taijyu Satoh",
+      "Junichi Nakamura",
+      "Shun Minatsuki",
+      "Nobutaka Ikeda",
+      "Naohiro Komura",
+      "Yoshihiro Dohi",
+      "Nobuhiro Tanabe",
+      "Ayako Shigeta",
+      "Kayoko Kubota",
+      "Yoshito Ogihara",
+      "Koshin Horimoto",
+      "Hiroto Shimokawahara",
+      "Yuki Ueno",
+      "Yuichi Tamura",
+      "Atsushi Anzai",
+      "Kimi Sato",
+      "Hidekazu Ikemiyagi",
+      "Yoichi Sugiyama",
+      "Yoshihiro Fukumoto",
+      "Hakuo Konishi",
+      "Kazuhiro Kimura",
+      "Toshiro Shinke",
+      "Kazuto Nakamura",
+      "Yuichi Baba",
+      "Koichiro Sugimura",
+      "Koichi Sugimoto",
+      "Eiichiro Yamamoto",
+      "Noriaki Takama",
+      "Noriko Kikuchi",
+      "Yoshiharu Sada",
+      "Soichiro Usui",
+      "Kohtaro Abe"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033165/",
+    "published": "2026-11-09",
+    "source": "pubmed",
+    "source_id": "43033165",
+    "doi": "10.1016/j.jacasi.2026.08.044",
+    "updated": "",
+    "venue": "JACC. Asia",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1080/13813455.2026.2755757": {
+    "title": "Metabolic and biochemical determinants of anal disease risk in HIV-positive MSM.",
+    "abstract": "Background : Human immunodeficiency virus (HIV)-positive men who have sex with men (MSM) face increased risk of anal diseases, including anal intraepithelial neoplasia and carcinoma, due to immunosuppression, viral persistence, and metaboli…",
+    "authors": [
+      "Xiaqing Wang",
+      "Yi Hu",
+      "Naisu Cao"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033139/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033139",
+    "doi": "10.1080/13813455.2026.2755757",
+    "updated": "",
+    "venue": "Archives of physiology and biochemistry",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1002/lary.71037": {
+    "title": "The Utility of Artificial Intelligence for Conducting Systematic Reviews in Otolaryngology.",
+    "abstract": "The exponential growth in medical literature has strained traditional evidence synthesis approaches, prompting interest in artificial intelligence (AI) as a potential solution. Thus, we sought to assess the concordance and time savings betw…",
+    "authors": [
+      "Keshav V Shah",
+      "Dominick J Rich",
+      "Dante Merlino",
+      "Robert M Brody"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033058/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033058",
+    "doi": "10.1002/lary.71037",
+    "updated": "",
+    "venue": "The Laryngoscope",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1093/oncolo/oyag453": {
+    "title": "Prognostic Factors for Survival in ICI-Treated NSCLC: An Umbrella Review of Evidence Certainty and Clinical Relevance.",
+    "abstract": "Immune checkpoint inhibitors (ICIs) have reshaped the treatment of non-small cell lung cancer (NSCLC), yet the prognostic value of many reported factors remains uncertain. We conducted an umbrella review to evaluate the strength and credibi…",
+    "authors": [
+      "Jiamin Lu",
+      "Yuqian Feng",
+      "Kaibo Guo",
+      "Kai Zhang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033040/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033040",
+    "doi": "10.1093/oncolo/oyag453",
+    "updated": "",
+    "venue": "The oncologist",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1177/09287329261504930": {
+    "title": "Dynamic blood glucose trajectory is 28-day all-cause mortality in critically ill patients with heart failure: A survival prediction analysis.",
+    "abstract": "BackgroundHeart failure (HF) is a global public health issue. Blood glucose influences HF progression, but research on its dynamic changes and mortglity remains limited.ObjectiveThis study aimed to investigate the association of baseline ad…",
+    "authors": [
+      "Shu-Hua Cun",
+      "Rui Meng",
+      "Meng-Han Jiang",
+      "Jian-Mei Pan",
+      "Wen-Hong Zou",
+      "Ping Wang",
+      "Hai-Ying Yang",
+      "Fang Yu",
+      "De-Min Li",
+      "Zhi-Ying Weng",
+      "Gong-Hao He"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033036/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033036",
+    "doi": "10.1177/09287329261504930",
+    "updated": "",
+    "venue": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1111/jocn.70608": {
+    "title": "Development of Prediction Model of Diabetes Self-Management Core Behaviours Based on Deep Learning.",
+    "abstract": "This study aimed to develop a predictive model for diabetes self-management (DSM) using a fully connected neural network (FCNN) architecture. The model's performance was rigorously evaluated using key metrics, including accuracy, precision,…",
+    "authors": [
+      "Fangli Tang",
+      "Jie Chen",
+      "Wenjun Wang",
+      "Qianfei Han",
+      "Xiaodan Yuan",
+      "Jiaohong Luo",
+      "Xiaoyan Li",
+      "Chao Liu",
+      "Qingqing Lou"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033021/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033021",
+    "doi": "10.1111/jocn.70608",
+    "updated": "",
+    "venue": "Journal of clinical nursing",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1080/1061186x.2026.2759732": {
+    "title": "Deep integrative multi-omics fusion using adversarial augmentation and graph attention networks for precision oncology.",
+    "abstract": "The rapid expansion of biological data in oncology has created a significant 'data deluge', making clinical decision-making increasingly complex. However, traditional multi-omics data integration methods face severe problems with extreme hi…",
+    "authors": [
+      "Savitha S",
+      "Logeswaran K",
+      "Swati Sah",
+      "Rejwan Bin Sulaiman"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032993/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43032993",
+    "doi": "10.1080/1061186x.2026.2759732",
+    "updated": "",
+    "venue": "Journal of drug targeting",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1002/ijgo.71416": {
+    "title": "Mode-specific fetal heart rate signal dropout as a marker of perinatal asphyxia: A multicenter observational study using causal machine learning methods.",
+    "abstract": "Cardiotocography (CTG) is the standard method for intrapartum fetal monitoring. Modern systems acquire fetal heart rate (FHR) using external Doppler ultrasound (US) or internal fetal scalp electrocardiography (ECG). We evaluated whether mod…",
+    "authors": [
+      "Debjyoti Karmakar",
+      "Lochana Mendis",
+      "Emerson Keenan",
+      "Marimuthu Palaniswami",
+      "Enes Makalic",
+      "Fiona Brownfoot"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032935/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43032935",
+    "doi": "10.1002/ijgo.71416",
+    "updated": "",
+    "venue": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1097/gox.0000000000008262": {
+    "title": "Multicenter Survival Analysis of Infectious Complications Following Breast Reconstruction: Healthcare Workers Versus General Population.",
+    "abstract": "Breast reconstruction (BR) following mastectomy carries a risk of postoperative infection. Healthcare workers (HWs) may have increased exposure to nosocomial pathogens and occupational stressors, although their impact on postoperative risk …",
+    "authors": [
+      "Sharon Leigh Kracoff-Sella",
+      "Tomas Karpati",
+      "Elizaveta Kouniavski",
+      "Racheli Magnezi",
+      "Orly Weinstein"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032873/",
+    "published": "2026-11-13",
+    "source": "pubmed",
+    "source_id": "43032873",
+    "doi": "10.1097/gox.0000000000008262",
+    "updated": "",
+    "venue": "Plastic and reconstructive surgery. Global open",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.14797/mdcvj.1931": {
+    "title": "Artificial Intelligence in Valvular Heart Disease: Imaging, Quantification, Risk Prediction, and Potential Clinical Decision Support.",
+    "abstract": "Valvular heart disease (VHD) affects a substantial proportion of the population and remains a major cause of cardiovascular morbidity and mortality worldwide. Despite advances in surgical and transcatheter therapies, important challenges pe…",
+    "authors": [
+      "Yeva Fakikh",
+      "Maan Malahfji"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032736/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43032736",
+    "doi": "10.14797/mdcvj.1931",
+    "updated": "",
+    "venue": "Methodist DeBakey cardiovascular journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.14797/mdcvj.1917": {
+    "title": "Artificial Intelligence in Coronary Artery Disease: From Detection to Precision Management.",
+    "abstract": "Coronary artery disease (CAD) remains the leading cause of death worldwide, yet the landscape is rapidly evolving as artificial intelligence (AI) is increasingly applied to its detection, diagnosis, and management. This review surveys the e…",
+    "authors": [
+      "Keshav Garg",
+      "Landon Bruich",
+      "Luke J Enemark",
+      "Khalid Sawalha",
+      "Aakash Rana",
+      "Ankit Agrawal",
+      "Robert F Spraggins",
+      "Osama Khalaila",
+      "Mohanad Shehadeh",
+      "Buthainah Alhwarat",
+      "Carsten Johnson",
+      "Avirup Guha",
+      "Yiye Zhang",
+      "Gianluca Pontone",
+      "Sourbha S Dani",
+      "Vignesh Chindambaram",
+      "Lohendran Baskaran",
+      "Bhupendar Tayal",
+      "Subhi J Al'Aref"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032706/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43032706",
+    "doi": "10.14797/mdcvj.1917",
+    "updated": "",
+    "venue": "Methodist DeBakey cardiovascular journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical Agent",
+    "score": 3,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.2147/ceg.s643684": {
+    "title": "Multimodal Risk Stratification and Surveillance for Gastric Cancer in Chronic Atrophic Gastritis and Gastric Intestinal Metaplasia: Integrating Histology, Endoscopy, Biomarkers, and Artificial Intelligence.",
+    "abstract": "Gastric cancer remains a major global health burden, and chronic atrophic gastritis (CAG) and gastric intestinal metaplasia (GIM) are important premalignant conditions. The risk of progression, however, varies considerably between individua…",
+    "authors": [
+      "Shujie Gao",
+      "Yiqing Zhao",
+      "Huihong Ji",
+      "Qingfang Lu",
+      "Yuqi Zhang",
+      "Mengru Liu",
+      "Junping Wang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032705/",
+    "published": "2026-11-09",
+    "source": "pubmed",
+    "source_id": "43032705",
+    "doi": "10.2147/ceg.s643684",
+    "updated": "",
+    "venue": "Clinical and experimental gastroenterology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.14797/mdcvj.1941": {
+    "title": "AI Applications in Aortic and Peripheral Artery Disease: Risk Prediction, Imaging, Procedural Support, and Longitudinal Surveillance.",
+    "abstract": "Aortic disease and lower-extremity peripheral artery disease (PAD) generate substantial morbidity, mortality, and longitudinal imaging burden. Artificial intelligence (AI) is increasingly studied for vascular risk prediction, image analysis…",
+    "authors": [
+      "Joshua D Robert",
+      "Stephan Bannikov",
+      "Aidan D Atkins",
+      "Maham Rahimi"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032703/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43032703",
+    "doi": "10.14797/mdcvj.1941",
+    "updated": "",
+    "venue": "Methodist DeBakey cardiovascular journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.2147/jir.s627812": {
+    "title": "Mapping the Evolution of T Cell Immunity in Coronary Heart Disease: A Bibliometric Analysis with a Focus on Inflammatory Paradigms (1991-2026).",
+    "abstract": "Coronary heart disease (CHD) remains the leading cause of global cardiovascular mortality. T cell-mediated adaptive immunity, particularly Th1, regulatory T cell (Treg), and Th17 subsets, plays a pivotal role in atherosclerotic plaque forma…",
+    "authors": [
+      "Shixuan Hua",
+      "Dong Cen",
+      "Jing Guo",
+      "Jiao Zhang",
+      "Chenchen Si",
+      "Poshi Xu",
+      "Ailan Zhang",
+      "Leichao Wang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032683/",
+    "published": "2026-11-09",
+    "source": "pubmed",
+    "source_id": "43032683",
+    "doi": "10.2147/jir.s627812",
+    "updated": "",
+    "venue": "Journal of inflammation research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1093/ehjdh/ztag162": {
+    "title": "Prognostication of end-stage heart failure using a machine learning model based on haemodynamics and cardiac energetics data.",
+    "abstract": "In the evolving landscape of heart failure treatment, clinicians face challenges in predicting which end-stage heart failure patients will require heart replacement therapies, such as left ventricular assist devices or transplantation, or a…",
+    "authors": [
+      "Pablo J Blanco",
+      "Carlos A Bulant",
+      "Rohan Goswami",
+      "Ryo Torii",
+      "Evan L Brittain",
+      "Jeffrey S Annis",
+      "Mark N Belkin",
+      "Héctor M García-García",
+      "Christos Bourantas",
+      "Jonathan Grinstein"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032679/",
+    "published": "2026-11-13",
+    "source": "pubmed",
+    "source_id": "43032679",
+    "doi": "10.1093/ehjdh/ztag162",
+    "updated": "",
+    "venue": "European heart journal. Digital health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.2147/ijgm.s655604": {
+    "title": "Pre-Radiotherapy Risk Prediction of Grade ≥2 Radiotherapy-Induced Lymphopenia in Breast Cancer: A Single-Center Interpretable Machine Learning Study.",
+    "abstract": "Radiotherapy-induced lymphopenia (RIL) is a clinically relevant hematologic toxicity in patients with breast cancer, yet early risk assessment before radiotherapy remains challenging because existing approaches often rely on dosimetric para…",
+    "authors": [
+      "Lei Ding",
+      "Hao Qiu",
+      "Miao Wang",
+      "Yutong Lu",
+      "Tao Huang",
+      "Ying Wang",
+      "Qianjin Shi",
+      "Kang Shen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032615/",
+    "published": "2026-11-09",
+    "source": "pubmed",
+    "source_id": "43032615",
+    "doi": "10.2147/ijgm.s655604",
+    "updated": "",
+    "venue": "International journal of general medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.14797/mdcvj.1921": {
+    "title": "Artificial Intelligence in Congenital Heart Disease: A Roadmap.",
+    "abstract": "Congenital heart disease (CHD) is a lifelong condition that requires ongoing monitoring due to its heterogeneous anatomy, physiology, and clinical course. Despite major advances in diagnosis and treatment, challenges remain in early detecti…",
+    "authors": [
+      "Rajkumar Dhar",
+      "Darpit Dave",
+      "Jacob Heiss",
+      "Kristopher Kormos",
+      "Animesh Tandon"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032253/",
+    "published": "2026-11-10",
+    "source": "pubmed",
+    "source_id": "43032253",
+    "doi": "10.14797/mdcvj.1921",
+    "updated": "",
+    "venue": "Methodist DeBakey cardiovascular journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:20+00:00"
+  },
+  "doi:10.1002/jbt.71155": {
+    "title": "Sildenafil as an Emerging Analgesic: Mechanistic Insights and Therapeutic Potential in Pain Management.",
+    "abstract": "Neuropathic pain is pain resulting from damage or disease affecting the peripheral or central nervous system. Chronic neuropathic pain is a major clinical concern and is frequently unresponsive to standard analgesics, so multimodal treatmen…",
+    "authors": [
+      "Radheshyam Pal",
+      "Utpal Bhui",
+      "Joy Das",
+      "Priya Chaudhary",
+      "Sumel Ashique",
+      "Bimlesh Kumar"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034916/",
+    "published": "2026-11-01",
+    "source": "pubmed",
+    "source_id": "43034916",
+    "doi": "10.1002/jbt.71155",
+    "updated": "",
+    "venue": "Journal of biochemical and molecular toxicology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.mtbio.2026.103811": {
+    "title": "Nanotechnology-enabled construction of bispecific and multispecific antibody platforms for enhanced antitumor therapy.",
+    "abstract": "Refractory solid tumors are characterized by pronounced antigen heterogeneity, dense tissue barriers, and immunosuppressive microenvironments, which limit the tumor coverage and durable immune clearance achieved with conventional monospecif…",
+    "authors": [
+      "Sheyu Ye",
+      "Jiayue Zhang",
+      "Meixia Lv",
+      "Shuliang Niu",
+      "Yi Zhang",
+      "Hongyu Chu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034872/",
+    "published": "2026-11-03",
+    "source": "pubmed",
+    "source_id": "43034872",
+    "doi": "10.1016/j.mtbio.2026.103811",
+    "updated": "",
+    "venue": "Materials today. Bio",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117973": {
+    "title": "Beyond Orbital Volume: Outcomes of Patient-Specific Implants, Surgical Navigation, and Artificial Intelligence in Orbital Reconstruction.",
+    "abstract": "Orbital reconstruction increasingly incorporates patient-specific implants (PSIs), surgical navigation, and artificial intelligence (AI), but the clinical value of these technologies depends on more than geometric accuracy. This critical na…",
+    "authors": [
+      "Daniel Gravino",
+      "Michael Farrugia"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034820/",
+    "published": "2026-10-15",
+    "source": "pubmed",
+    "source_id": "43034820",
+    "doi": "10.7759/cureus.117973",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117978": {
+    "title": "Appraising Artificial Intelligence Studies in Dental and Maxillofacial Imaging: A Task-Routed Framework for Reporting Completeness and Risk of Bias.",
+    "abstract": "Artificial intelligence studies in dental and maxillofacial imaging use different designs and endpoints, but reviews often apply a single adapted appraisal instrument across them. Recent updates to reporting guidelines and risk-of-bias tool…",
+    "authors": [
+      "Volodymyr Kachmar",
+      "Roksolana Mikhlin",
+      "Tamara Danko",
+      "Alina Shmal"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034808/",
+    "published": "2026-10-15",
+    "source": "pubmed",
+    "source_id": "43034808",
+    "doi": "10.7759/cureus.117978",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1093/radadv/umag038": {
+    "title": "Adaptive deep learning model with anatomical priors for 3D segmentation of fine hepatic vasculature on CT.",
+    "abstract": "Accurate segmentation of fine hepatic vessels on CT remains challenging because peripheral branches are small and low contrast. To develop and test PriM Fusion Net, a deep learning model that adaptively integrates an optimized anatomical pr…",
+    "authors": [
+      "Zixuan Zhao",
+      "Kalyani Vyapari",
+      "Kyunghyun Sung",
+      "David S Lu",
+      "Grace H Kim",
+      "Matthew S Brown"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034797/",
+    "published": "2026-11-03",
+    "source": "pubmed",
+    "source_id": "43034797",
+    "doi": "10.1093/radadv/umag038",
+    "updated": "",
+    "venue": "Radiology advances",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.xops.2026.101417": {
+    "title": "Biennial versus Annual Screening: Predicting Yearly Progression of Diabetic Retinopathy in a Large Veteran Population from Tabular Data.",
+    "abstract": "To use machine learning models to classify diabetic patients into low-risk (candidate for biennial screening) and high-risk (needing annual screening) categories based on their likelihood of worsening diabetic retinopathy (DR) only (excludi…",
+    "authors": [
+      "Mirza Farhan Bin Tarek",
+      "Robert M Carroll",
+      "Cristian Flores",
+      "Jeffrey Henderer",
+      "Rahmatollah Beheshti"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034723/",
+    "published": "2026-09-23",
+    "source": "pubmed",
+    "source_id": "43034723",
+    "doi": "10.1016/j.xops.2026.101417",
+    "updated": "",
+    "venue": "Ophthalmology science",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.invent.2026.101015": {
+    "title": "Trusting health information from large language models, online articles, and discussion forums: A comparison of perceived credibility.",
+    "abstract": "While the increasing use of Large Language Models (LLMs) as eHealth tools facilitates rapid information retrieval, it also carries the risk of credibility inflation for medically inaccurate content. The aim of the study was to examine the e…",
+    "authors": [
+      "Katarzyna Zalass-Knyziak",
+      "Katarzyna Cantarero"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034719/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43034719",
+    "doi": "10.1016/j.invent.2026.101015",
+    "updated": "",
+    "venue": "Internet interventions",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.isci.2026.118134": {
+    "title": "LKMHCpan: Transformer-optimized HLA-I pseudo-sequences enhance neoantigen prediction for immunotherapy.",
+    "abstract": "Accurate peptide-HLA class I binding prediction is fundamental for identifying tumor neoantigens and advancing personalized immunotherapy. We present LKMHCpan, a pan-specific predictor that leverages transformer networks to optimize HLA-I p…",
+    "authors": [
+      "Qing Li",
+      "Sanyang Liu",
+      "Mingyue Yao",
+      "Huimin Chen",
+      "Yangyang Yu",
+      "Baojia Zhang",
+      "Mingming Jia",
+      "Li Chen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034688/",
+    "published": "2026-11-05",
+    "source": "pubmed",
+    "source_id": "43034688",
+    "doi": "10.1016/j.isci.2026.118134",
+    "updated": "",
+    "venue": "iScience",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117958": {
+    "title": "Persistent Unilateral Facial Inflammation Associated With a Calcium Hydroxylapatite-Compatible Foreign-Body Reaction: A Case Report.",
+    "abstract": "Calcium hydroxylapatite (CaHA) is a widely used biostimulatory dermal filler, although persistent inflammatory complications may occur. We report the case of a 23-year-old woman who developed progressive unilateral inflammation of the left …",
+    "authors": [
+      "Macarena Olivares",
+      "Nicole Abaroa",
+      "Victor Mercado"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034652/",
+    "published": "2026-10-15",
+    "source": "pubmed",
+    "source_id": "43034652",
+    "doi": "10.7759/cureus.117958",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.omta.2026.201871": {
+    "title": "Optimized GENE TARGET framework characterizes barriers to therapeutic development for monogenic neurodevelopmental disorders.",
+    "abstract": "GENE TARGET is a previously published framework designed to quantitatively assess the suitability of a specific monogenic neurodevelopment disorder (NDD) for development of genetic therapies, addressing the need for a systematic and rigorou…",
+    "authors": [
+      "Raymond Belanger Deloge",
+      "Abigail Sveden",
+      "Zoë Frazier",
+      "Hailey Osika",
+      "Charlotte Byrne",
+      "Jillian O'Toole",
+      "Muhammed Bayraktutan",
+      "Kira A Dies",
+      "Stephanie J Brewster",
+      "Pilar Trelles",
+      "Morgan E Ryan",
+      "Bo Zhang",
+      "Lisa Prock",
+      "Jed Hubbs",
+      "Elizabeth D Buttermore",
+      "Wendy K Chung",
+      "Audrey Thurm",
+      "Mustafa Sahin",
+      "Maya Chopra"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034642/",
+    "published": "2026-10-17",
+    "source": "pubmed",
+    "source_id": "43034642",
+    "doi": "10.1016/j.omta.2026.201871",
+    "updated": "",
+    "venue": "Molecular therapy. Advances",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.apjon.2026.101040": {
+    "title": "Development and internal validation of a machine learning model for predicting acute chemotherapy-induced nausea and vomiting after intra-arterial interventional therapy in patients with liver cancer.",
+    "abstract": "To develop and internally validate an interpretable machine learning model for predicting acute chemotherapy-induced nausea and vomiting (ACINV) after intra-arterial interventional therapy (IAIT) in patients with primary liver cancer. This …",
+    "authors": [
+      "Yan Lu",
+      "Ruishuang Zheng",
+      "Haipeng Yu",
+      "Xueling Yang",
+      "Yanan Liu",
+      "Yongjian Wang",
+      "Dongjun Liu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034587/",
+    "published": "2026-10-03",
+    "source": "pubmed",
+    "source_id": "43034587",
+    "doi": "10.1016/j.apjon.2026.101040",
+    "updated": "",
+    "venue": "Asia-Pacific journal of oncology nursing",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/27558428261447944": {
+    "title": "Comparative prognostic accuracy of MDRD and CKD-EPI equations in Jordanian diabetics: A machine learning-enhanced longitudinal study.",
+    "abstract": "Type II diabetes mellitus (DM) is a leading cause of chronic kidney disease (CKD), increased risks of cardiovascular events, and all-cause mortality. Even mild reductions in glomerular filtration rate (GFR) in people with DM confer higher r…",
+    "authors": [
+      "Amani Anwar Khalil",
+      "Randa I Farah",
+      "Mohammad Alrawashdeh",
+      "Salah Al-Zaiti"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034522/",
+    "published": "2026-05-21",
+    "source": "pubmed",
+    "source_id": "43034522",
+    "doi": "10.1177/27558428261447944",
+    "updated": "",
+    "venue": "Sage open chronic disease",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/27558428261449178": {
+    "title": "Combination therapies for hidradenitis suppurativa: Narrative review of current strategies and emerging perspectives.",
+    "abstract": "Hidradenitis suppurativa (HS) is a chronic, recurrent, and debilitating inflammatory dermatosis affecting approximately 1% of the population, with a female predominance and substantial psychosocial burden. Clinically, it presents with painf…",
+    "authors": [
+      "Andrea Carugno",
+      "Stefano Bighetti",
+      "Zeno Fratton",
+      "Luca Bettolini",
+      "Marco Manfredini",
+      "Valentina Dini",
+      "Giovanni Paolino",
+      "Mario Valenti",
+      "Marco Campoli",
+      "Anna Minuti",
+      "Vincenzo Maione",
+      "Gianluca Nazzaro",
+      "Francesco Maria Lacarrubba",
+      "Enzo Errichetti",
+      "Santo Raffaele Mercuri",
+      "Simone Ribero",
+      "Marina Venturini",
+      "Marco Romanelli",
+      "Giuseppe Micali",
+      "Giovanni Pellacani",
+      "Caterina Longo",
+      "Antonio Costanzo",
+      "Angelo Valerio Marzano",
+      "Nicola Zerbinati"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034520/",
+    "published": "2026-05-20",
+    "source": "pubmed",
+    "source_id": "43034520",
+    "doi": "10.1177/27558428261449178",
+    "updated": "",
+    "venue": "Sage open chronic disease",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117953": {
+    "title": "Consumer Artificial Intelligence for Pedigree Analysis: A Comparative Study in Medical Genetics.",
+    "abstract": "Large language models (LLMs) are increasingly used in medical education, but their ability to analyze pedigree-based genetics problems is not well defined. This exploratory study aimed to compare the accuracy of four consumer LLMs on image-…",
+    "authors": [
+      "Seba S Abduljabbar",
+      "Mohammed Alqarni",
+      "Alawi Habara"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034519/",
+    "published": "2026-10-15",
+    "source": "pubmed",
+    "source_id": "43034519",
+    "doi": "10.7759/cureus.117953",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/23743735261493024": {
+    "title": "Transforming Ophthalmic Care Delivery to Improve Patient Experience and Outcomes: Is AI the Answer to Value-Based Care?",
+    "abstract": "Diabetic retinopathy (DR) remains a leading cause of preventable vision loss, yet the pathways patients navigate to be screened are fragmented and inconvenient, and structural barriers-not patient neglect-drive poor adherence. This commenta…",
+    "authors": [
+      "Elham Alqahtani",
+      "Husam Alrumaih",
+      "Hani Hazza AlGhamdi",
+      "Mohammed Khalid Alkhalifah",
+      "Loay Khalid Basudan",
+      "Bjorn Zoega"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034426/",
+    "published": "2026-09-25",
+    "source": "pubmed",
+    "source_id": "43034426",
+    "doi": "10.1177/23743735261493024",
+    "updated": "",
+    "venue": "Journal of patient experience",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/27558428261452294": {
+    "title": "Advancing chronic obstructive pulmonary disease management: The case for multi-biomarker precision medicine-A narrative review.",
+    "abstract": "Chronic obstructive pulmonary disease (COPD) is increasingly recognized as a biologically heterogeneous disorder that extends beyond eosinophilic inflammation alone. Although blood eosinophil counts are clinically useful for guiding inhaled…",
+    "authors": [
+      "Anusha Sundararaman",
+      "Thangavel Mahalingam Vijayakumar",
+      "Nalini Jayanthi Nagesh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034402/",
+    "published": "2026-08-25",
+    "source": "pubmed",
+    "source_id": "43034402",
+    "doi": "10.1177/27558428261452294",
+    "updated": "",
+    "venue": "Sage open chronic disease",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/18911803261489527": {
+    "title": "Effectiveness of Health System Interventions to Improve Access to General Healthcare Services for People with Disabilities: A Global Evidence and Gap Map Protocol.",
+    "abstract": "People with disabilities make up 1.3 billion of the world's population and encounter systemic barriers-financial, structural, informational, and attitudinal-that limit their access to healthcare services, resulting in lower utilization, poo…",
+    "authors": [
+      "Ashrita Saran",
+      "Arthemon Nguweneza",
+      "Sarah Young",
+      "Kevin Ouma Ojiambo",
+      "Tracey Smythe",
+      "Hannah Kuper"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034392/",
+    "published": "2026-09-24",
+    "source": "pubmed",
+    "source_id": "43034392",
+    "doi": "10.1177/18911803261489527",
+    "updated": "",
+    "venue": "Campbell systematic reviews",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1186/s12909-026-10399-0": {
+    "title": "Doctors' and residents' perspectives on artificial intelligence in medicine: a survey on educational needs and curriculum integration.",
+    "abstract": "A questionnaire was designed to investigate the perspectives of medical staff and students on the clinical use of medical artificial intelligence and the necessity and approaches for integrating artificial intelligence education in hospital…",
+    "authors": [
+      "Jiang Hong",
+      "Li Yu Xuan Guo",
+      "YanMin Peng",
+      "Li Chen",
+      "Bo Zhao"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034157/",
+    "published": "2026-09-15",
+    "source": "pubmed",
+    "source_id": "43034157",
+    "doi": "10.1186/s12909-026-10399-0",
+    "updated": "",
+    "venue": "BMC medical education",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.mrgentox.2026.503961": {
+    "title": "Artificial intelligence-driven advancements in radiation biodosimetry.",
+    "abstract": "Radiation dose estimation is fundamental to the effective management of radiological emergencies, where prompt and accurate assessment is critical for medical intervention. Conventional biodosimetry methods, including the dicentric chromoso…",
+    "authors": [
+      "Karthik Prathaban",
+      "Wilner Martinez-Lopez",
+      "Manoor Prakash Hande"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034081/",
+    "published": "2026-09-25",
+    "source": "pubmed",
+    "source_id": "43034081",
+    "doi": "10.1016/j.mrgentox.2026.503961",
+    "updated": "",
+    "venue": "Mutation research. Genetic toxicology and environmental mutagenesis",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.joms.2026.10.013": {
+    "title": "Effect of Pre-Extubation Bupivacaine Infiltration on Postoperative Pain and Opioid Consumption After Orthognathic Surgery.",
+    "abstract": "Effective postoperative pain control with reduced opioid use is a key goal in orthognathic surgery. To compare postoperative pain and morphine consumption between subjects with and without additional pre-extubation bupivacaine infiltration …",
+    "authors": [
+      "Esra Beyler",
+      "Nur Altıparmak",
+      "Merve Berrak Kesen",
+      "Sıdıka Sinem Akdeniz"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033828/",
+    "published": "2026-10-29",
+    "source": "pubmed",
+    "source_id": "43033828",
+    "doi": "10.1016/j.joms.2026.10.013",
+    "updated": "",
+    "venue": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.rbmo.2026.106021": {
+    "title": "Oocyte quality modulates paternal age effects on ICSI outcomes: an AI-based cohort study.",
+    "abstract": "Does oocyte quality, assessed by an artificial intelligence (AI) tool, modify the association between paternal age and intracytoplasmic sperm injection (ICSI) outcomes? This was a retrospective cohort study including 12,337 mature oocytes f…",
+    "authors": [
+      "Daniela P A F Braga",
+      "Amanda S Setti",
+      "Maite Del Collado",
+      "Jullin Fjeldstad",
+      "Parisa Mojiri",
+      "Edson Borges"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033667/",
+    "published": "2026-10-07",
+    "source": "pubmed",
+    "source_id": "43033667",
+    "doi": "10.1016/j.rbmo.2026.106021",
+    "updated": "",
+    "venue": "Reproductive biomedicine online",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.media.2026.104385": {
+    "title": "MedReShaper: mesh-based AI for 3D anatomical shape completion in orbital fracture reconstruction with controlled technical validation.",
+    "abstract": "Accurate three-dimensional (3D) reconstruction of missing orbital anatomy is important for surgical planning and patient-specific implant (PSI) design. Existing approaches often rely on contralateral mirroring or statistical shape priors, w…",
+    "authors": [
+      "Yao Gao",
+      "Xijin Du",
+      "Feng Li",
+      "Lei Tian",
+      "Yucheng Guo",
+      "Fréderic Van der Cruyssen",
+      "Ron Kikinis",
+      "Xiaojun Chen",
+      "Jeroen Van Dessel",
+      "Yi Sun",
+      "Robin Willaert"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033663/",
+    "published": "2026-11-01",
+    "source": "pubmed",
+    "source_id": "43033663",
+    "doi": "10.1016/j.media.2026.104385",
+    "updated": "",
+    "venue": "Medical image analysis",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1002/mp.70765": {
+    "title": "A K-space guided invertible diffusion model for accelerating MRI reconstruction.",
+    "abstract": "Magnetic resonance imaging (MRI), a core technology in clinical medical diagnosis, has long aimed to balance imaging quality and acquisition efficiency. Traditional MRI techniques, limited by the Nyquist-Shannon sampling theorem, are faced …",
+    "authors": [
+      "Jiayu Yang",
+      "Feng Zhu",
+      "Zhipeng Yu",
+      "Yuhang Chen",
+      "Jie Ding"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033395/",
+    "published": "2026-11-01",
+    "source": "pubmed",
+    "source_id": "43033395",
+    "doi": "10.1002/mp.70765",
+    "updated": "",
+    "venue": "Medical physics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1002/ppul.71916": {
+    "title": "Diagnostic Accuracy of Large Language Models for Pediatric Chest Radiograph: Comparison With Pediatricians and Radiologists.",
+    "abstract": "Chest radiography (CR) is the most widely used radiological test in pediatrics, yet its interpretation remains heterogeneous. Although large language models (LLMs) such as ChatGPT and Perplexity are not designed for medical use, their wides…",
+    "authors": [
+      "Luis Bachiller Carnicero",
+      "Juan Manuel Serón Luna",
+      "Cristina Antón Rodríguez",
+      "Gema Pérez Yagüe",
+      "Gloria Bartolomé Calvo",
+      "Ana Rodríguez Ramos"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033194/",
+    "published": "2026-11-01",
+    "source": "pubmed",
+    "source_id": "43033194",
+    "doi": "10.1002/ppul.71916",
+    "updated": "",
+    "venue": "Pediatric pulmonology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1097/aco.0000000000001722": {
+    "title": "Can the anesthetic management affect oncological outcome in lung cancer surgery?",
+    "abstract": "Lung cancer surgery creates a vulnerable perioperative window where anesthetic and physiological interventions may modulate recurrence. This review evaluates the oncological impact of perioperative strategies in non-small-cell lung cancer, …",
+    "authors": [
+      "Jeayoun Kim",
+      "Ji Won Choi",
+      "Hyun Joo Ahn"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033142/",
+    "published": "2026-11-17",
+    "source": "pubmed",
+    "source_id": "43033142",
+    "doi": "10.1097/aco.0000000000001722",
+    "updated": "",
+    "venue": "Current opinion in anaesthesiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1097/aco.0000000000001721": {
+    "title": "Postoperative acute kidney injury in thoracic noncardiac surgery: incidence, impact on outcomes, risk and protective factors, and evolving preventive strategies.",
+    "abstract": "Postoperative acute kidney injury (AKI) significantly impairs short- and long-term clinical outcomes after thoracic noncardiac surgery, including increased mortality and prolonged hospitalization. This review synthesizes current evidence on…",
+    "authors": [
+      "Seiji Ishikawa",
+      "Izumi Kawagoe"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033141/",
+    "published": "2026-11-17",
+    "source": "pubmed",
+    "source_id": "43033141",
+    "doi": "10.1097/aco.0000000000001721",
+    "updated": "",
+    "venue": "Current opinion in anaesthesiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "pubmed:43033119": {
+    "title": "[Pharmacological treatment options for adult attention-deficit/hyperactivity disorder].",
+    "abstract": "Adult attention-deficit/hyperactivity disorder (ADHD) is a relatively common and largely underdiagnosed neurodevelopmental disorder characterized by symptoms of inattention, impulsivity, impaired activity regulation, and emotional dysregula…",
+    "authors": [
+      "János Réthelyi",
+      "Attila József Pulay"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033119/",
+    "published": "2026-01-01",
+    "source": "pubmed",
+    "source_id": "43033119",
+    "doi": "",
+    "updated": "",
+    "venue": "Psychiatria Hungarica : A Magyar Pszichiatriai Tarsasag tudomanyos folyoirata",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1111/inr.70260": {
+    "title": "The Role of Digital Literacy in the Statistical Mediation of the Association Between Perceived Digital Leadership and Nurses' Anxiety Toward Artificial Intelligence: A Cross-Sectional Study From Türkiye.",
+    "abstract": "To examine whether digital literacy mediates the association between nurses' perceived digital leadership and artificial intelligence anxiety. Artificial intelligence is transforming healthcare, requiring nurses to strengthen digital compet…",
+    "authors": [
+      "Özge Üstün",
+      "Mustafa Erbir",
+      "Derya Evgin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033004/",
+    "published": "2026-12-01",
+    "source": "pubmed",
+    "source_id": "43033004",
+    "doi": "10.1111/inr.70260",
+    "updated": "",
+    "venue": "International nursing review",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1093/ehjimp/qyag188": {
+    "title": "Combined imaging of myocardial scar and fat using artificial intelligence-guided dual bright- and black-blood late gadolinium enhancement.",
+    "abstract": "Characterization of myocardial scar and fat is clinically important for diagnosis, risk stratification, and procedural planning in cardiomyopathies. While black-blood late gadolinium enhancement (LGE) improves scar conspicuity, fat remains …",
+    "authors": [
+      "Kalvin Narceau",
+      "Manuel Villegas-Martinez",
+      "Théo Richard",
+      "Victor de Villedon de Naide",
+      "Thaïs Génisson",
+      "Ewan Barel",
+      "Michel Haïssaguerre",
+      "Matthias Stuber",
+      "Hubert Cochet",
+      "Aurélien Bustin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032887/",
+    "published": "2026-11-02",
+    "source": "pubmed",
+    "source_id": "43032887",
+    "doi": "10.1093/ehjimp/qyag188",
+    "updated": "",
+    "venue": "European heart journal. Imaging methods and practice",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117934": {
+    "title": "From Biomarker Measurement to Clinical Utility: Lessons From Six Established Biomarkers.",
+    "abstract": "Biomarkers are increasingly used to support diagnosis, risk stratification, therapeutic selection, monitoring, and prognosis. Advances in high-sensitivity assays, molecular diagnostics, multi-omics, and artificial intelligence have accelera…",
+    "authors": [
+      "Elsa Faviou",
+      "Christina Economidou",
+      "Melina E Baltogianni",
+      "Nikolaos Baltogiannis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032856/",
+    "published": "2026-10-14",
+    "source": "pubmed",
+    "source_id": "43032856",
+    "doi": "10.7759/cureus.117934",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.xops.2026.101402": {
+    "title": "Ophthalmic Artificial Intelligence under the European Union Medical Device Regulation and Artificial Intelligence Act: Reclassification, Compliance, and Clinical Implications.",
+    "abstract": "How do the European Union (EU) Medical Device Regulation (MDR) (Regulation [EU] 2017/745) and the Artificial Intelligence Act (AI Act) (Regulation [EU] 2024/1689) jointly regulate artificial intelligence (AI)‑enabled ophthalmic medical devi…",
+    "authors": [
+      "Polat Goktas",
+      "Andrzej Grzybowski"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032750/",
+    "published": "2026-09-11",
+    "source": "pubmed",
+    "source_id": "43032750",
+    "doi": "10.1016/j.xops.2026.101402",
+    "updated": "",
+    "venue": "Ophthalmology science",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.ynpai.2026.100237": {
+    "title": "IMPETUS project protocol: A translational team science approach to tackle chronic postsurgical pain.",
+    "abstract": "Chronic postsurgical pain (CPSP) affects 15-20% of patients undergoing major surgery, with limited therapeutic options available for its prevention and treatment. CPSP is heterogeneous, with multiple central and peripheral mechanisms implie…",
+    "authors": [
+      "Harutyun Alaverdyan",
+      "Katherine J Holzer",
+      "Meaghan C Creed",
+      "Andrew J Shepherd",
+      "Thomas L Rodebaugh",
+      "Pratik Sinha",
+      "Chenyang Lu",
+      "Pall Karlsson",
+      "Simon Haroutounian"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032672/",
+    "published": "2026-10-29",
+    "source": "pubmed",
+    "source_id": "43032672",
+    "doi": "10.1016/j.ynpai.2026.100237",
+    "updated": "",
+    "venue": "Neurobiology of pain (Cambridge, Mass.)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.aicoj.2026.100195": {
+    "title": "Neuroprognostication in unconscious patients after cardiac arrest: considering the time course of prognostic markers.",
+    "abstract": "Hypoxic-ischemic brain injury (HIBI) is a major determinant of outcome after cardiac arrest (CA) and accounts for approximately two-thirds of deaths in patients who remain comatose after return of spontaneous circulation (ROSC), frequently …",
+    "authors": [
+      "S Benghanem",
+      "E Pruvost-Robieux",
+      "G Hmeydia",
+      "H Sellami",
+      "J Mercier",
+      "M Gavaret",
+      "T Sharshar",
+      "A Cariou",
+      "C Calligaris",
+      "C Legouy"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032663/",
+    "published": "2026-10-29",
+    "source": "pubmed",
+    "source_id": "43032663",
+    "doi": "10.1016/j.aicoj.2026.100195",
+    "updated": "",
+    "venue": "Annals of intensive care",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/frai.2026.1907266": {
+    "title": "A comprehensive study of skin lesion segmentation and classification using deep learning techniques.",
+    "abstract": "Deep learning has become an important computational approach in dermatology because it enables automated segmentation and classification of skin lesions. Manual dermoscopic analysis is time-consuming and depends on specialist expertise, wit…",
+    "authors": [
+      "E Babu",
+      "S Murali"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032600/",
+    "published": "2026-10-23",
+    "source": "pubmed",
+    "source_id": "43032600",
+    "doi": "10.3389/frai.2026.1907266",
+    "updated": "",
+    "venue": "Frontiers in artificial intelligence",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fmed.2026.1935603": {
+    "title": "Thermally provoked itch in atopic dermatitis: current evidence, knowledge gaps, and digital approaches to nocturnal scratching.",
+    "abstract": "Atopic dermatitis (AD) is a chronic inflammatory skin disease in which pruritus significantly contributes to sleep disturbance, impaired quality of life, and the itch-scratch cycle. Heat, sweating, hot-water exposure, and nocturnal occlusio…",
+    "authors": [
+      "Dengmei Xia",
+      "Yue Yuan",
+      "Jinghong Huang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032518/",
+    "published": "2026-10-22",
+    "source": "pubmed",
+    "source_id": "43032518",
+    "doi": "10.3389/fmed.2026.1935603",
+    "updated": "",
+    "venue": "Frontiers in medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fonc.2026.1971798": {
+    "title": "Single-cell and spatial multi-omics for studying cell competition in the tumor microenvironment.",
+    "abstract": "Cell competition is a conserved fitness-surveillance process, first described in Drosophila epithelia, by which cells compare relative fitness with their neighbors so that less-fit \"loser\" cells are eliminated, extruded or forced to differe…",
+    "authors": [
+      "Prakash Balu",
+      "Ashna Sureshkumar",
+      "Gayathri Devi Sundaramurthy",
+      "Geetha Subramaniam",
+      "Ling Shing Wong"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032516/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032516",
+    "doi": "10.3389/fonc.2026.1971798",
+    "updated": "",
+    "venue": "Frontiers in oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.lana.2026.101689": {
+    "title": "Access to clinical cancer genomics and precision oncology-based care in North America.",
+    "abstract": "Despite the scientific and technical capacity for precision oncology in North America (Canada, the United States, and Mexico), its implementation is deeply uneven across the region. Our narrative synthesis of precision oncology implementati…",
+    "authors": [
+      "Priya Kumar",
+      "Abdulazeez Salawu",
+      "Roberta Demichelis-Gómez",
+      "Aquino Williams",
+      "Alexandra R Harris",
+      "Brittany D Jenkins-Lord",
+      "Samyukta Mullangi",
+      "Renata A Bajaj",
+      "Opeyemi Bolajoko",
+      "Ingrid Jacobson",
+      "Catalina Lopez-Correa",
+      "Aparna Parikh",
+      "Sewit Teckie",
+      "Jennifer Wu",
+      "Folakemi Odedina",
+      "Melissa B Davis",
+      "Wade Swenson",
+      "Jean-Marc Bourque",
+      "Carmen Aláez Versón",
+      "Lillian L Siu",
+      "Debyani Chakravarty"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032513/",
+    "published": "2026-11-05",
+    "source": "pubmed",
+    "source_id": "43032513",
+    "doi": "10.1016/j.lana.2026.101689",
+    "updated": "",
+    "venue": "Lancet regional health. Americas",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1515/med-2026-1465": {
+    "title": "Succinate metabolism-related gene signatures enable diagnosis and prognostic stratification in early-stage hepatocellular carcinoma.",
+    "abstract": "Succinate metabolism influences tumorigenesis through energetics, epigenetics, and immunity, yet the clinical value of succinate metabolism-related genes (SMRGs) in early-stage hepatocellular carcinoma (HCC) remains unclear. Using transcrip…",
+    "authors": [
+      "Xiaomei Wang",
+      "Yi Lu",
+      "Xiaoying Ye",
+      "Jiaojian Lv"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032493/",
+    "published": "2026-11-16",
+    "source": "pubmed",
+    "source_id": "43032493",
+    "doi": "10.1515/med-2026-1465",
+    "updated": "",
+    "venue": "Open medicine (Warsaw, Poland)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/frai.2026.1976101": {
+    "title": "Navigating the Pharma 4.0 revolution: how AI-enabled applications and predictive modelling shaped pharmaceutical development in the post-pandemic era: a systematic review.",
+    "abstract": "Pharma 4.0 is touted to make processes more efficient and resilient to unforeseen circumstances, boosting productivity, speed and accuracy of pharmaceutical systems. Besides operational stability, these technological implementations could p…",
+    "authors": [
+      "Xin Yi Chang",
+      "Clarence Teo",
+      "Cheong Hian Goh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032471/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032471",
+    "doi": "10.3389/frai.2026.1976101",
+    "updated": "",
+    "venue": "Frontiers in artificial intelligence",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3892/etm.2026.13345": {
+    "title": "Prognostic biomarker SCNM1 is associated with immune infiltration and therapeutic response, and promotes tumor migration in hepatocellular carcinoma.",
+    "abstract": "Sodium channel modifier 1 (SCNM1) is involved in biological processes including RNA splicing and the regulation of primary cilium length; however, its role in hepatocellular carcinoma (HCC) remains largely unclear. The present study aimed t…",
+    "authors": [
+      "Lin Jia",
+      "Ze Liang",
+      "Junye Wen",
+      "Huaibin Guo",
+      "Shuai He",
+      "Yanhui Peng"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032454/",
+    "published": "2026-10-27",
+    "source": "pubmed",
+    "source_id": "43032454",
+    "doi": "10.3892/etm.2026.13345",
+    "updated": "",
+    "venue": "Experimental and therapeutic medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.opresp.2026.100688": {
+    "title": "Recommendations on the Use of Computed Tomography in Severe Asthma: A Consensus Document.",
+    "abstract": "Although computed tomography (CT) provides valuable information in severe asthma, its indications and interpretation remain nonstandardized and often undervalued, making consensus between pulmonologists and radiologists crucial to optimize …",
+    "authors": [
+      "Ebymar Arismendi",
+      "Jose Gregorio Soto-Campos",
+      "Carlos Almonacid",
+      "Borja G-Cosío",
+      "Luis Pérez de Llano",
+      "Javier Sáez",
+      "Marcelo Sánchez",
+      "Astrid Crespo-Lessmann"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032439/",
+    "published": "2026-10-19",
+    "source": "pubmed",
+    "source_id": "43032439",
+    "doi": "10.1016/j.opresp.2026.100688",
+    "updated": "",
+    "venue": "Open respiratory archives",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fneph.2026.1950125": {
+    "title": "Artificial intelligence for precision nephrology: current evidence to clinical translation and future prospects.",
+    "abstract": "Artificial intelligence (AI) is increasingly being applied across nephrology, with potential applications spanning disease prediction, diagnosis, treatment optimisation, and clinical decision support. However, reported model performance var…",
+    "authors": [
+      "Moses Ishaku Madami",
+      "Chigozirim Samuel Amaoge",
+      "Ayu Wulandari",
+      "Xiaoshuang Zhou"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032430/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032430",
+    "doi": "10.3389/fneph.2026.1950125",
+    "updated": "",
+    "venue": "Frontiers in nephrology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.imj.2026.100297": {
+    "title": "Development and validation of an interpretable machine learning model for the early diagnosis of Pneumocystis jirovecii pneumonia in immunosuppressed patients.",
+    "abstract": "Pneumocystis jirovecii pneumonia (PJP) is a common, potentially fatal infection in immunosuppressed patients. Rapid and accurate diagnosis of PJP remains challenging, as delays increase mortality. This study aimed to develop a machine-learn…",
+    "authors": [
+      "Yantong Li",
+      "Hao Zhou",
+      "Lu Bai",
+      "Rongjun Wan",
+      "Juan Jiang",
+      "Wenzhong Peng",
+      "Pinhua Pan",
+      "Chengping Hu",
+      "Yuling Tang",
+      "Jianmin Li",
+      "Qingkai Luo",
+      "Wei Yang",
+      "Yuanyuan Li"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032411/",
+    "published": "2026-10-10",
+    "source": "pubmed",
+    "source_id": "43032411",
+    "doi": "10.1016/j.imj.2026.100297",
+    "updated": "",
+    "venue": "Infectious medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1093/radadv/umag039": {
+    "title": "Benchmarking large language model performance in generating and assessing radiology objective structured clinical examination.",
+    "abstract": "High-quality radiology assessment questions are essential for education competency evaluation but labor-intensive to create. To compare four large language models (LLMs) in generating and evaluating radiology objective structured clinical e…",
+    "authors": [
+      "Ankush Ankush",
+      "Samriddhi Burman",
+      "Sydney Smith",
+      "Vivek Gupta",
+      "Sitaram Barath",
+      "Monika Puranik",
+      "Janardhana Ponnatapura"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032285/",
+    "published": "2026-09-12",
+    "source": "pubmed",
+    "source_id": "43032285",
+    "doi": "10.1093/radadv/umag039",
+    "updated": "",
+    "venue": "Radiology advances",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117894": {
+    "title": "From Algorithm to Care: AI-Assisted Glaucoma Screening in Real-World Settings.",
+    "abstract": "Glaucoma screening is increasingly being discussed in the context of artificial intelligence (AI), particularly as imaging technologies become more accessible outside specialist clinics. The question, however, is not simply whether AI can i…",
+    "authors": [
+      "Hemlata Udenia",
+      "Vivek Gupta",
+      "Praveen Vashist",
+      "Tanuj Dada"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032269/",
+    "published": "2026-10-14",
+    "source": "pubmed",
+    "source_id": "43032269",
+    "doi": "10.7759/cureus.117894",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.esmogo.2026.100439": {
+    "title": "Reprogramming the tumor microenvironment in MSS CRC: the role of TKIs in combination with immunotherapy.",
+    "abstract": "Immunotherapy has revolutionized the treatment landscape of colorectal cancer (CRC), improving clinical outcomes in microsatellite instability-high tumors. In contrast, microsatellite stable (MSS) CRC exhibits intrinsic resistance to immune…",
+    "authors": [
+      "J Venturini",
+      "D Rossini",
+      "C Conticello",
+      "A Guarino",
+      "C Motola",
+      "M Maceria",
+      "G Petroni",
+      "S Pillozzi",
+      "L Antonuzzo"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032263/",
+    "published": "2026-11-05",
+    "source": "pubmed",
+    "source_id": "43032263",
+    "doi": "10.1016/j.esmogo.2026.100439",
+    "updated": "",
+    "venue": "ESMO gastrointestinal oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1159/cop/acaag003": {
+    "title": "Early-Onset Unilateral Terrien's Marginal Degeneration in a Young Female Managed with Crescentic Lamellar Keratoplasty and Scleral Lens Rehabilitation: A Case Report.",
+    "abstract": "Terrien's marginal degeneration (TMD) is a rare peripheral corneal ectatic disorder characterized by progressive stromal thinning, irregular astigmatism, and, in advanced cases, risk of corneal perforation. Surgical intervention may be requ…",
+    "authors": [
+      "Circe Monserrat Vázquez-Bonilla",
+      "Guillermo Raul Vera-Duarte",
+      "Mauricio Muleiro-Alvarez",
+      "Didier Escobar",
+      "Ruth Eskenazi-Betech",
+      "Alejandro Navas",
+      "Enrique O Graue-Hernandez",
+      "Arturo Ramirez-Miranda"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032227/",
+    "published": "2026-08-11",
+    "source": "pubmed",
+    "source_id": "43032227",
+    "doi": "10.1159/cop/acaag003",
+    "updated": "",
+    "venue": "Case reports in ophthalmology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.7759/cureus.117889": {
+    "title": "Artificial Intelligence for Glucose Prediction and Glycemic Management in Diabetes: A Systematic Review of Predictive Performance and Clinical Outcomes.",
+    "abstract": "Artificial intelligence (AI) is increasingly being investigated for glucose prediction and personalized glycemic management in diabetes, particularly through continuous glucose monitoring and multimodal patient data. However, strong predict…",
+    "authors": [
+      "Mohammed A Alqarni",
+      "Abdulmohsen A Alharbi",
+      "Salha Q Mashyakhi",
+      "Waad S Alamri",
+      "Ghala M Asiri",
+      "Shahad T Alamri",
+      "Shahad Mubarak",
+      "Areej N Alsharif",
+      "Jamilah A Alshahrani",
+      "Albatool Khaled Al Shahrani",
+      "Enas S Alqahtani",
+      "Bushra A Alsaluli",
+      "Saad Dhafer Alshahrani"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032218/",
+    "published": "2026-10-13",
+    "source": "pubmed",
+    "source_id": "43032218",
+    "doi": "10.7759/cureus.117889",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/20552076261492994": {
+    "title": "Assessing the accuracy of AI-generated responses to periodontal scaling and root planing patient FAQs.",
+    "abstract": "Periodontal diseases affect nearly half the global population, making patient education critical for successful outcomes. With increasing public reliance on artificial intelligence (AI) for health information, evaluating the accuracy of AI-…",
+    "authors": [
+      "Ahmed M Kabli"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032213/",
+    "published": "2026-09-23",
+    "source": "pubmed",
+    "source_id": "43032213",
+    "doi": "10.1177/20552076261492994",
+    "updated": "",
+    "venue": "Digital health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.bas.2026.107720": {
+    "title": "Usage and pitfalls of intracranial/invasive multimodal neuromonitoring during MR imaging of neurocritical care patients: a questionnaire study.",
+    "abstract": "Invasive intracranial neuromonitoring and early magnetic resonance imaging (MRI) inform treatment and prognosis in traumatic brain injury (TBI), but probes in situ raise MRI safety concerns. How do neurocritical care clinicians handle MRI i…",
+    "authors": [
+      "Daniel Pinggera",
+      "Philipp Geiger",
+      "Victoria Schön",
+      "Marlies Bauer",
+      "Christian Preuss-Hernandez",
+      "Sami Barrit",
+      "Mejdeddine Al Barajraji",
+      "Bart Depreitere",
+      "Christian F Freyschlag",
+      "Ondra Petr",
+      "Claudius Thomé"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032196/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43032196",
+    "doi": "10.1016/j.bas.2026.107720",
+    "updated": "",
+    "venue": "Brain & spine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.jacig.2026.100794": {
+    "title": "Using serum eosinophil-derived neurotoxin to differentiate asthma from other allergic diseases in children.",
+    "abstract": "Allergic diseases, including asthma, are increasingly prevalent among pediatric populations. Diagnostic measures are limited and often nonspecific, due to overlapping symptoms and inaccessibility to pulmonary function tests. This study aime…",
+    "authors": [
+      "Yifei K Yang",
+      "Guangchao Sun",
+      "Robert Movérare",
+      "Niclas Rydell",
+      "Carley Karsten",
+      "Sara Vettleson-Trutza",
+      "Joseph H Skalski",
+      "Melissa R Snyder"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032193/",
+    "published": "2026-10-05",
+    "source": "pubmed",
+    "source_id": "43032193",
+    "doi": "10.1016/j.jacig.2026.100794",
+    "updated": "",
+    "venue": "The journal of allergy and clinical immunology. Global",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/frai.2026.1810551": {
+    "title": "Explainable artificial intelligence identifies circulating microRNA candidate biomarkers for liquid biopsy-based pancreatic cancer detection.",
+    "abstract": "Pancreatic cancer (PC) remains a highly lethal malignancy due to asymptomatic progression, late presentation, and lack of reliable minimally invasive liquid biopsy biomarkers for early detection. Circulating microRNAs (c-miRNAs) are promisi…",
+    "authors": [
+      "Saurav Mandal",
+      "Md Aamir Ansari",
+      "Waribam Pratibha Chanu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032186/",
+    "published": "2026-10-21",
+    "source": "pubmed",
+    "source_id": "43032186",
+    "doi": "10.3389/frai.2026.1810551",
+    "updated": "",
+    "venue": "Frontiers in artificial intelligence",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fpubh.2026.1980576": {
+    "title": "Nonlinear associations between physical activity, sleep quality, and psychological distress in university students: a cross-sectional interpretable machine learning study.",
+    "abstract": "Physical activity and sleep disturbance may have nonlinear, interrelated associations with psychological distress. Objective: To develop an internally validated prediction model and explore MVPA-distress nonlinearity and statistical interac…",
+    "authors": [
+      "Zhihao Du",
+      "Meijuan Zhang",
+      "Wenqiong Li",
+      "Ziwei Wu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032088/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032088",
+    "doi": "10.3389/fpubh.2026.1980576",
+    "updated": "",
+    "venue": "Frontiers in public health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fnagi.2026.1945797": {
+    "title": "Linking event-related potentials and structural MRI in the aging brain.",
+    "abstract": "Aging alters both brain structure and electrophysiology, which can be measured non-invasively by structural magnetic resonance imaging (MRI) and event-related potentials (ERPs). On average, gray matter declines steadily from early adulthood…",
+    "authors": [
+      "Yajya Rishi",
+      "Raj Attariwala",
+      "Ryan C N D'Arcy"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032086/",
+    "published": "2026-10-19",
+    "source": "pubmed",
+    "source_id": "43032086",
+    "doi": "10.3389/fnagi.2026.1945797",
+    "updated": "",
+    "venue": "Frontiers in aging neuroscience",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/froh.2026.1967358": {
+    "title": "Diagnostic factors influencing orthodontic extraction decision-making: a systematic review.",
+    "abstract": "Orthodontic extraction decision-making requires integration of multiple diagnostic characteristics, yet the factors underlying extraction vs. non-extraction treatment selection have not been comprehensively synthesized across conventional c…",
+    "authors": [
+      "Martin Baxmann",
+      "Márton Zsoldos",
+      "Krisztina Kárpáti"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032061/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032061",
+    "doi": "10.3389/froh.2026.1967358",
+    "updated": "",
+    "venue": "Frontiers in oral health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1177/27558428261484147": {
+    "title": "Novel machine learning models including adipose-muscle indices for the prediction of musculoskeletal complications in rheumatoid arthritis: A cross-sectional study.",
+    "abstract": "This research aimed to investigate the associations of multiple adipose-muscle indices with secondary osteoporosis (OP) and sarcopenia in rheumatoid arthritis (RA) patients. To develop a comprehensive early diagnostic model for musculoskele…",
+    "authors": [
+      "Jing-Tian Shi",
+      "Ting-Ting Wu",
+      "Xiao-Ling Mo",
+      "Xiao-Xuan Xia",
+      "Yi-Ran Chu",
+      "Jian-Xiong Wang",
+      "Sheng-Qian Xu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032049/",
+    "published": "2026-08-28",
+    "source": "pubmed",
+    "source_id": "43032049",
+    "doi": "10.1177/27558428261484147",
+    "updated": "",
+    "venue": "Sage open chronic disease",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02804-6": {
+    "title": "A Systematic Review of Generative Artificial Intelligence-powered Healthcare Simulation for Clinical Reasoning Skills Development: Applications, Outcomes and Challenges.",
+    "abstract": "Generative artificial intelligence (GenAI) has transformative potential in healthcare simulation (HCS), where developing clinical reasoning skills is crucial for patient safety and quality of care. Despite a growing interest on GenAI in HCS…",
+    "authors": [
+      "Kamal Takhdat",
+      "Abdelmonim El Fadely",
+      "Eddabbah Mohamed",
+      "Ahmed Ouaamr",
+      "Ahmed Rhassane El Adib"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032045/",
+    "published": "2026-07-03",
+    "source": "pubmed",
+    "source_id": "43032045",
+    "doi": "10.1007/s40670-026-02804-6",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02914-1": {
+    "title": "\"It Felt Like Practicing Telemedicine While Learning About It\": A Reflexive Thematic Analysis of Medical Students' Reflective Diaries from a Telemedicine Elective Course Across two Cohorts.",
+    "abstract": "Telemedicine has shifted from a niche modality to an established component of routine clinical practice in many health systems. Medical curricula are only beginning to address this shift. Reflective writing is increasingly used both as a pe…",
+    "authors": [
+      "Motti Haimi",
+      "Irit Chudner"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032035/",
+    "published": "2026-10-14",
+    "source": "pubmed",
+    "source_id": "43032035",
+    "doi": "10.1007/s40670-026-02914-1",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02909-y": {
+    "title": "Artificial Intelligence in Script Concordance Test Development: A Practical Guide for Medical Educators.",
+    "abstract": "Generative artificial intelligence (AI) offers new opportunities to improve the efficiency and scalability of Script Concordance Test (SCT) development in medical education. However, its use raises important concerns regarding validity, fai…",
+    "authors": [
+      "Enjy Abouzeid",
+      "Moataz Sallam"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032025/",
+    "published": "2026-09-29",
+    "source": "pubmed",
+    "source_id": "43032025",
+    "doi": "10.1007/s40670-026-02909-y",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.xops.2026.101433": {
+    "title": "Diffusion-Based Model for Multi-Artifact Removal on OCT-Angiography Superficial Capillary Plexus Images.",
+    "abstract": "To develop and validate OCT angiography (OCTA) Artifact Removal Model (OCTA-ARM), a diffusion-based deep learning framework for simultaneously removing motion, shadow, and defocus artifacts on OCTA images. Retrospective development and vali…",
+    "authors": [
+      "Xujia Liu",
+      "Bowen Xu",
+      "Chunwen Zheng",
+      "Danqi Fang",
+      "Dawei Yang",
+      "Hok Ka Chun",
+      "Clement C Tham",
+      "Sobha Sivaprasad",
+      "Simon K Szeto",
+      "An Ran Ran",
+      "Hongyang Jiang",
+      "Carol Y Cheung"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032016/",
+    "published": "2026-10-08",
+    "source": "pubmed",
+    "source_id": "43032016",
+    "doi": "10.1016/j.xops.2026.101433",
+    "updated": "",
+    "venue": "Ophthalmology science",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s13224-026-02458-9": {
+    "title": "Unlocking Power of Medical Research.",
+    "abstract": "The Indian Council of Medical Research (ICMR), New Delhi, convened a half-day symposium on July 22, 2026, with the theme \"Medical Publishing in the Era of AI and Anti-Science - Navigating Challenges, Fostering Integrity.\" The program includ…",
+    "authors": [
+      "Sujata Dalvi"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032015/",
+    "published": "2026-11-05",
+    "source": "pubmed",
+    "source_id": "43032015",
+    "doi": "10.1007/s13224-026-02458-9",
+    "updated": "",
+    "venue": "Journal of obstetrics and gynaecology of India",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02900-7": {
+    "title": "Artificial Intelligence Use in Clerkships: A Call for National Guidance.",
+    "abstract": "Artificial intelligence (AI) tools are increasingly integrated into medical education and clinical care. Clerkship students are adopting AI for studying, clinical preparation, and clinical reasoning, often more rapidly than institutions and…",
+    "authors": [
+      "Amy M Creel",
+      "Larrilyn Grant",
+      "Temple Ratcliffe",
+      "Gary Beck Dallaghan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032007/",
+    "published": "2026-09-23",
+    "source": "pubmed",
+    "source_id": "43032007",
+    "doi": "10.1007/s40670-026-02900-7",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02899-x": {
+    "title": "The Perils of \"Effortless Excellence\": Generative AI and the Erosion of Effort in Medical Education.",
+    "abstract": "Generative artificial intelligence (GenAI) enables learners to produce academic and clinical work with unprecedented ease, creating a risk of \"effortless excellence\" in medical education. Although GenAI can improve efficiency and equity, pr…",
+    "authors": [
+      "Roham Hadidchi",
+      "Vir J Patel",
+      "Curtis Chung",
+      "Nicholas Scott",
+      "Purvi Bhagat",
+      "Vijay Rajput"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031995/",
+    "published": "2026-09-28",
+    "source": "pubmed",
+    "source_id": "43031995",
+    "doi": "10.1007/s40670-026-02899-x",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fphar.2026.1913372": {
+    "title": "Pharmacogenomic predictors of proton pump inhibitor response in pediatric eosinophilic esophagitis.",
+    "abstract": "Genetic variability has been implicated in the heterogeneous response to proton pump inhibitors (PPIs) in eosinophilic esophagitis (EoE), with variants in CYP2C19 and STAT6 previously associated with treatment outcome. However, the broader …",
+    "authors": [
+      "Mariamena Arbitrio",
+      "Renato Tambucci",
+      "Valeria Tallarico",
+      "Ilaria Gnasso",
+      "Francesca Scionti",
+      "Giuseppe Agapito",
+      "Emanuela Altomare",
+      "Mario Cannataro",
+      "Graziella D'Arrigo",
+      "Giovanni Tripepi",
+      "Daniela Concolino",
+      "Fabiola De Masi",
+      "Maria Giovanna Puoti",
+      "Francesca Rea",
+      "Monica Malamisura",
+      "Alessandra Maria Ricci",
+      "Maria Cristina Artesani",
+      "Sara Urbani",
+      "Veronica Calandrelli",
+      "Alessandro Giovanni Fiocchi",
+      "Paola De Angelis",
+      "Licia Pensabene"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031977/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43031977",
+    "doi": "10.3389/fphar.2026.1913372",
+    "updated": "",
+    "venue": "Frontiers in pharmacology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02906-1": {
+    "title": "Industry 4.0 Technologies in Health Professions Education: A Scoping Review of Curriculum Innovation and Competency Development.",
+    "abstract": "Industry 4.0 technologies-virtual, augmented, and mixed reality; robotics; digital twins; artificial intelligence; three-dimensional printing; blockchain; and mobile and online learning-increasingly shape how health professions learners are…",
+    "authors": [
+      "Kathirvel Ayyaswamy",
+      "Parthasarathy Vellaichamy",
+      "Nagarajan Deivanayagam Pillai",
+      "Gobinath Vellapalayam Manoharan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031945/",
+    "published": "2026-09-30",
+    "source": "pubmed",
+    "source_id": "43031945",
+    "doi": "10.1007/s40670-026-02906-1",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fdgth.2026.1939100": {
+    "title": "Utilizing AI for decision support in severe asthma biological treatment.",
+    "abstract": "Severe asthma remains a major clinical challenge because of disease heterogeneity and variable response to biologic therapies. Despite the availability of clinical guidelines, clinicians often rely on a trial-and-error approach when selecti…",
+    "authors": [
+      "Bassam Mahboub",
+      "Sameer Alawnah",
+      "Salam Dhou",
+      "Piotr Kuna",
+      "Celine Bergeron",
+      "Riyad Al-Lehebi",
+      "Najla Alnahadi",
+      "Noura Alhousani",
+      "Assim Sagahyroon",
+      "Asharaf Alzabi",
+      "Laila Salameh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031939/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43031939",
+    "doi": "10.3389/fdgth.2026.1939100",
+    "updated": "",
+    "venue": "Frontiers in digital health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02832-2": {
+    "title": "A Randomised Controlled Trial to Study the Use of Large Language Models Prompt Engineered with Socratic Methods on the Impact of Medical Students' Learning.",
+    "abstract": "Large Language Models (LLM) are AI models that can generate conversational content based on a trained specified source of information (corpus). The aim is to use these corpus-trained LLMs to limit the content offered by LLM, then using prom…",
+    "authors": [
+      "Cai Ling Yong",
+      "Clara Lee Ying Ngoh",
+      "Mohammad Shaheryar Furqan",
+      "James Wai Kit Lee",
+      "Andrew Makmur",
+      "Ragunathan Mariappan",
+      "Kee Yuan Ngiam"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031920/",
+    "published": "2026-07-29",
+    "source": "pubmed",
+    "source_id": "43031920",
+    "doi": "10.1007/s40670-026-02832-2",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fendo.2026.1998518": {
+    "title": "Quality-recommendation paradox in adult hypothyroidism guidelines: a systematic appraisal of methodological quality, recommendation consistency, and citation impact.",
+    "abstract": "Hypothyroidism is one of the most common endocrine disorders, yet its adult guidelines disagree on screening, on treatment thresholds for subclinical disease, and on combination therapy. Whether higher methodological quality yields more con…",
+    "authors": [
+      "Peng Zhi",
+      "Xiaohe Yan",
+      "Chaofan Zhang",
+      "Jing Zhao"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031919/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43031919",
+    "doi": "10.3389/fendo.2026.1998518",
+    "updated": "",
+    "venue": "Frontiers in endocrinology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1017/ash.2026.10914": {
+    "title": "AI in antimicrobial stewardship: time to involve patients?",
+    "abstract": "Artificial intelligence is transforming antibiotic stewardship but largely overlooks the patient perspectives shaping prescribing decisions. Because inappropriate antibiotic use is fundamentally relational, AI must incorporate patient narra…",
+    "authors": [
+      "Neda Milevska-Kostova"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031908/",
+    "published": "2026-10-14",
+    "source": "pubmed",
+    "source_id": "43031908",
+    "doi": "10.1017/ash.2026.10914",
+    "updated": "",
+    "venue": "Antimicrobial stewardship & healthcare epidemiology : ASHE",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.3389/fped.2026.1983032": {
+    "title": "Machine learning models for predicting plastic bronchitis in hospitalized children with Mycoplasma pneumoniae pneumonia undergoing clinically indicated bronchoscopy: a single-center retrospective study.",
+    "abstract": "To develop and compare multiple machine learning models for predicting the risk of plastic bronchitis (PB) in children with Mycoplasma pneumoniae pneumonia (MPP) and to establish an interpretable early risk identification tool. A retrospect…",
+    "authors": [
+      "Shuai Yu",
+      "Yifei Li",
+      "Qing Liu",
+      "Zhengfeng Xue",
+      "Yu Gao",
+      "Yuzhi Yang",
+      "Yuanxia Li"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031897/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43031897",
+    "doi": "10.3389/fped.2026.1983032",
+    "updated": "",
+    "venue": "Frontiers in pediatrics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02928-9": {
+    "title": "Reducing GenAI Hallucinations in Medical Research and Education: Eight Practical Considerations and the 8Rs Prompt Model from Daily Practice.",
+    "abstract": "Generative Artificial Intelligence (GenAI) is now common in academic medicine. Yet, large language models (LLMs) can produce fabricated content and invented references that look genuine. Hallucination is inherent to how these models are tra…",
+    "authors": [
+      "Khalid H Malki",
+      "Mohamad-Hani Temsah"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031870/",
+    "published": "2026-10-13",
+    "source": "pubmed",
+    "source_id": "43031870",
+    "doi": "10.1007/s40670-026-02928-9",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.rpth.2026.107019": {
+    "title": "Enabling artificial intelligence-driven blind joint ultrasound self-scans in hemophilia: an annotation protocol.",
+    "abstract": "Early detection and management of joint bleeding are critical for preventing long-term joint damage in people with hemophilia. However, current practices often require healthcare professionals to assess bleeding, limiting patient autonomy a…",
+    "authors": [
+      "Daniel Michelsanti",
+      "Nima Teimouri",
+      "Andreas Heindl",
+      "Karen Strike",
+      "Roberta Gualtierotti",
+      "Andrea S Doria",
+      "Carlo Martinoli",
+      "Johannes Roth"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031860/",
+    "published": "2026-10-13",
+    "source": "pubmed",
+    "source_id": "43031860",
+    "doi": "10.1016/j.rpth.2026.107019",
+    "updated": "",
+    "venue": "Research and practice in thrombosis and haemostasis",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1007/s40670-026-02888-0": {
+    "title": "Beyond the Screen: Medical Education in the Era of Artificial Intelligence.",
+    "abstract": "\"Screen retreat,\" where trainees instinctively turn to the electronic medical record (EMR) rather than the bedside when questions arise, has overtaken medical education. While often justified as efficient, this reliance displaces patient in…",
+    "authors": [
+      "Andrea Dean",
+      "Geeta Singhal"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031839/",
+    "published": "2026-09-28",
+    "source": "pubmed",
+    "source_id": "43031839",
+    "doi": "10.1007/s40670-026-02888-0",
+    "updated": "",
+    "venue": "Medical science educator",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:58:27+00:00"
+  },
+  "doi:10.1016/j.ygyno.2026.11.006": {
+    "title": "First-cycle β-hCG dynamics predict single-agent chemoresistance in low-risk gestational trophoblastic neoplasia.",
+    "abstract": "This study aimed to introduce a first-cycle β-hCG response marker for predicting first-line single-agent chemoresistance in low-risk gestational trophoblastic neoplasia (GTN). This retrospective study included 299 patients. Patients were ra…",
+    "authors": [
+      "Yan Wang",
+      "Yan Kong",
+      "Yanci Che",
+      "Xinyue Luan",
+      "Xiao Li",
+      "Zhumei Cui",
+      "Tian Tian"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033759/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033759",
+    "doi": "10.1016/j.ygyno.2026.11.006",
+    "updated": "",
+    "venue": "Gynecologic oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical Agent",
+    "score": 3,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:00+00:00"
+  },
+  "doi:10.1017/ash.2026.10825": {
+    "title": "Association between deployment of a web-based electronic clinical decision support tool and antibiotic prescribing knowledge and confidence in an academic dental center.",
+    "abstract": "To evaluate antibiotic prescribing knowledge and confidence before versus after deployment of a web-based clinical decision support tool at an academic dental center. Pre and post survey instrument. Academic dental center in the United Stat…",
+    "authors": [
+      "Michael J Durkin",
+      "Danny Hanna",
+      "Susan Rowan",
+      "Tracey Habrock-Bach",
+      "Alice Bewley",
+      "Randi Foraker",
+      "Katie Suda"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032389/",
+    "published": "2026-09-01",
+    "source": "pubmed",
+    "source_id": "43032389",
+    "doi": "10.1017/ash.2026.10825",
+    "updated": "",
+    "venue": "Antimicrobial stewardship & healthcare epidemiology : ASHE",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical Agent",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:01+00:00"
+  },
+  "doi:10.1007/s00234-026-04257-5": {
+    "title": "Structural brain changes in age-related macular degeneration before and 6 months after Scharioth macula lens implantation: an exploratory MRI study.",
+    "abstract": "Age-related macular degeneration (AMD) is associated with visual impairment and with structural and functional brain differences. The extent of these differences and whether longitudinal structural changes are detectable after visual rehabi…",
+    "authors": [
+      "Jakub Bochnička",
+      "Juhana Hakumäki",
+      "Naďa Jirásková",
+      "Jan Kremláček"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033260/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43033260",
+    "doi": "10.1007/s00234-026-04257-5",
+    "updated": "",
+    "venue": "Neuroradiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_models_epdat",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:09+00:00"
+  },
+  "doi:10.1016/j.namjnl.2026.100152": {
+    "title": "Development of machine learning models to predict chemical-induced ocular irritation.",
+    "abstract": "Chemical-induced ocular irritation can lead to acute tissue damage and chronic eye conditions, such as glaucoma or vision loss; therefore, assessing the ocular irritation potential of chemicals is important to protect human health. However,…",
+    "authors": [
+      "Pinyi Lu",
+      "Souvik Dey",
+      "Yulin Zhao",
+      "Anders Wallqvist",
+      "Mohamed Diwan M AbdulHameed"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032668/",
+    "published": "2026-10-30",
+    "source": "pubmed",
+    "source_id": "43032668",
+    "doi": "10.1016/j.namjnl.2026.100152",
+    "updated": "",
+    "venue": "NAM journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:10+00:00"
+  },
+  "doi:10.7759/cureus.117897": {
+    "title": "Evolution of Peripheral Retinal Perfusion in Sickle Cell Retinopathy During Severe Vaso-Occlusive Crises: A Report of Two Cases.",
+    "abstract": "Sickle cell retinopathy (SCR) is characterized by retinal vaso-occlusion and peripheral ischemia. We describe two patients with homozygous sickle cell disease (HbSS) who presented with extensive peripheral retinal nonperfusion during severe…",
+    "authors": [
+      "Elena Missa",
+      "Nikola Filipovic",
+      "Ismael Daoudi",
+      "Iris Païdassi",
+      "Laurence Postelmans",
+      "Florence Rasquin",
+      "Sina Hakami"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031948/",
+    "published": "2026-10-14",
+    "source": "pubmed",
+    "source_id": "43031948",
+    "doi": "10.7759/cureus.117897",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_agents_edat",
+      "eye_agents_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:13+00:00"
+  },
+  "doi:10.64898/2026.10.15.26365116": {
+    "title": "Deep learning-based electrocardiographic differentiation of Takotsubo syndrome from acute anterior myocardial infarction: explainability, human-AI interaction, and a utilization bias hypothesis",
+    "abstract": "Background and AimsArtificial intelligence (AI) may help differentiate Takotsubo syndrome from acute anterior ST-segment elevation myocardial infarction (STEMI) on electrocardiograms (ECGs). We developed an ECG image-based model and evaluat…",
+    "authors": [
+      "Kagawa, E.",
+      "Kato, M.",
+      "Hidaka, T.",
+      "Kunita, E.",
+      "Hironobe, N.",
+      "Matsui, S.",
+      "Kobayashi, Y.",
+      "Uotani, Y.",
+      "Teramoto, T.",
+      "Yoshii, K.",
+      "Okumoto, T.",
+      "Tani, M.",
+      "Dote, K."
+    ],
+    "url": "https://doi.org/10.64898/2026.10.15.26365116",
+    "published": "2026-11-08",
+    "source": "medrxiv",
+    "source_id": "10.64898/2026.10.15.26365116",
+    "doi": "10.64898/2026.10.15.26365116",
+    "updated": "2026-11-08",
+    "venue": "cardiovascular medicine",
+    "review_status": "preprint",
+    "version": "3",
+    "sources": [
+      "medrxiv"
+    ],
+    "matched_queries": [],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-15T21:59:32+00:00"
   }
 }
