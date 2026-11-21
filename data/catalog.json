@@ -82245,9 +82245,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82279,9 +82279,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82313,12 +82313,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82347,9 +82347,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82379,9 +82379,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82413,9 +82413,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82484,9 +82484,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82513,9 +82513,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82542,9 +82542,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82573,9 +82573,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82606,9 +82606,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82635,9 +82635,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82665,9 +82665,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82698,9 +82698,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -82732,9 +82732,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82763,9 +82763,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82799,9 +82799,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82832,9 +82832,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82862,9 +82862,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82902,9 +82902,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -82932,9 +82932,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -82962,12 +82962,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -82998,9 +82998,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83027,9 +83027,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83069,9 +83069,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83098,9 +83098,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83130,9 +83130,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83162,12 +83162,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83197,9 +83197,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83231,9 +83231,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83259,9 +83259,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83293,9 +83293,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83324,9 +83324,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83335,7 +83335,7 @@
   },
   "doi:10.64898/2026.11.11.26367859": {
     "title": "DxToniaNet: A Neural Network for Estimating the Severity of Leg Dystonia in Children with Cerebral Palsy.",
-    "abstract": "ImportanceLeg dystonia affects 50-80% of children with cerebral palsy (CP), but severity assessment remains subjective and time-consuming. Objective tools are urgently needed to quantify leg dystonia severity in clinical care and clinical t…",
+    "abstract": "Leg dystonia affects 50-80% of children with cerebral palsy (CP), but severity assessment remains subjective and time-consuming. Objective tools are urgently needed to quantify leg dystonia severity in clinical care and clinical trials. To …",
     "authors": [
       "Rishabh Bajpai",
       "Alyssa Rust",
@@ -83400,9 +83400,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83431,9 +83431,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83466,9 +83466,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83496,9 +83496,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83528,9 +83528,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83559,9 +83559,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83591,9 +83591,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83627,9 +83627,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83661,9 +83661,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83695,9 +83695,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83734,9 +83734,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83769,12 +83769,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -83803,9 +83803,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83836,9 +83836,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83867,9 +83867,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -83899,9 +83899,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -83938,12 +83938,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -83974,9 +83974,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84022,9 +84022,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84055,9 +84055,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -84094,9 +84094,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84123,12 +84123,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84155,12 +84155,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84228,9 +84228,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84257,9 +84257,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84303,9 +84303,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84332,9 +84332,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical Agent",
     "score": 2,
@@ -84360,12 +84360,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84400,9 +84400,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84459,9 +84459,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84489,12 +84489,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -84527,9 +84527,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84568,9 +84568,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84597,9 +84597,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84628,9 +84628,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84661,9 +84661,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84705,9 +84705,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84740,9 +84740,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84772,9 +84772,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84810,9 +84810,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -84844,12 +84844,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_epdat",
+      "eye_models_crdt",
       "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -84879,9 +84879,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84916,9 +84916,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84948,9 +84948,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -84983,9 +84983,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85016,9 +85016,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85047,9 +85047,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85082,9 +85082,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85117,9 +85117,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85148,12 +85148,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85180,9 +85180,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85262,9 +85262,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85292,9 +85292,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85325,9 +85325,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85361,12 +85361,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
-      "medical_models_edat",
-      "medical_models_crdt",
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat",
+      "medical_models_crdt",
+      "medical_models_edat",
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85398,9 +85398,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85434,9 +85434,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_epdat",
+      "medical_models_crdt",
       "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_epdat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85465,8 +85465,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85493,8 +85493,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85520,8 +85520,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85553,8 +85553,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85581,8 +85581,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85611,8 +85611,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85662,10 +85662,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85692,8 +85692,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85725,8 +85725,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85760,8 +85760,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85789,8 +85789,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85819,8 +85819,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85848,8 +85848,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -85883,8 +85883,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85920,8 +85920,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85953,8 +85953,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -85988,8 +85988,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86018,8 +86018,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86054,8 +86054,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86085,8 +86085,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86117,8 +86117,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86148,8 +86148,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86179,8 +86179,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86209,8 +86209,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86236,8 +86236,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86263,8 +86263,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86294,10 +86294,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86328,8 +86328,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86366,8 +86366,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86402,8 +86402,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86435,8 +86435,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86468,8 +86468,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86498,10 +86498,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86536,8 +86536,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86578,8 +86578,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86607,8 +86607,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86639,8 +86639,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86678,8 +86678,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86708,10 +86708,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -86752,8 +86752,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86787,8 +86787,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86825,8 +86825,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86866,8 +86866,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86905,10 +86905,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -86934,8 +86934,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -86976,12 +86976,12 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat",
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -87012,10 +87012,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87048,10 +87048,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -87084,8 +87084,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87115,8 +87115,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87152,8 +87152,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87187,8 +87187,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87223,8 +87223,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87257,8 +87257,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87290,8 +87290,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87323,10 +87323,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87356,8 +87356,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87387,10 +87387,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87420,8 +87420,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87461,8 +87461,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87503,10 +87503,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87548,8 +87548,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87593,8 +87593,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87630,8 +87630,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87673,10 +87673,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87711,8 +87711,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87742,8 +87742,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87771,8 +87771,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87801,8 +87801,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87833,8 +87833,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -87865,8 +87865,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87893,8 +87893,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -87921,8 +87921,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87949,8 +87949,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -87979,8 +87979,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88012,8 +88012,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88041,8 +88041,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88068,10 +88068,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88099,8 +88099,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88128,8 +88128,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88155,8 +88155,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88184,8 +88184,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88216,8 +88216,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88248,8 +88248,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88283,8 +88283,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88326,8 +88326,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88364,8 +88364,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88400,10 +88400,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88441,8 +88441,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88471,8 +88471,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88505,8 +88505,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88535,8 +88535,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88565,8 +88565,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88600,8 +88600,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88632,8 +88632,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88665,8 +88665,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88698,8 +88698,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88732,8 +88732,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88764,8 +88764,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88794,8 +88794,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88823,8 +88823,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88855,8 +88855,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88883,8 +88883,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88921,8 +88921,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -88954,8 +88954,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -88997,8 +88997,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89031,8 +89031,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89065,8 +89065,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89103,8 +89103,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89136,8 +89136,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89170,8 +89170,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89204,8 +89204,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -89234,8 +89234,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89266,8 +89266,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89305,8 +89305,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89338,8 +89338,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89366,8 +89366,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89413,8 +89413,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89455,8 +89455,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89495,8 +89495,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89524,8 +89524,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89552,8 +89552,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89584,8 +89584,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89618,8 +89618,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89652,8 +89652,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_models_edat",
-      "medical_models_crdt"
+      "medical_models_crdt",
+      "medical_models_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89735,9 +89735,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89766,9 +89766,9 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_epdat",
+      "medical_agents_crdt",
       "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_epdat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89826,8 +89826,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89854,8 +89854,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -89907,8 +89907,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89941,8 +89941,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "medical_agents_edat",
-      "medical_agents_crdt"
+      "medical_agents_crdt",
+      "medical_agents_edat"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -89975,8 +89975,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -90007,10 +90007,10 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt",
+      "eye_agents_crdt",
       "eye_agents_edat",
-      "eye_agents_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -90041,8 +90041,8 @@
       "pubmed"
     ],
     "matched_queries": [
-      "eye_models_edat",
-      "eye_models_crdt"
+      "eye_models_crdt",
+      "eye_models_edat"
     ],
     "domain": "Ophthalmic AI",
     "score": 2,
@@ -90298,10 +90298,10 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_submitted",
-      "medical_models_updated",
       "medical_agents_submitted",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_submitted",
+      "medical_models_updated"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -90356,10 +90356,10 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_submitted",
-      "medical_models_updated",
       "medical_agents_submitted",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_submitted",
+      "medical_models_updated"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -90423,10 +90423,10 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_submitted",
-      "medical_models_updated",
       "medical_agents_submitted",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_submitted",
+      "medical_models_updated"
     ],
     "domain": "Medical AI",
     "score": 1,
@@ -90545,10 +90545,10 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_submitted",
-      "medical_models_updated",
       "medical_agents_submitted",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_submitted",
+      "medical_models_updated"
     ],
     "domain": "Ophthalmic AI",
     "score": 1,
@@ -90609,8 +90609,8 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_updated",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_updated"
     ],
     "domain": "Medical Agent",
     "score": 3,
@@ -90706,8 +90706,8 @@
       "arxiv"
     ],
     "matched_queries": [
-      "medical_models_updated",
-      "medical_agents_updated"
+      "medical_agents_updated",
+      "medical_models_updated"
     ],
     "domain": "Medical AI",
     "score": 2,
@@ -91092,5 +91092,2754 @@
     "score": 1,
     "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
     "first_seen": "2026-11-20T23:16:31+00:00"
+  },
+  "doi:10.1177/15563316261503920": {
+    "title": "Chatbots and Social Media-Embedded AI Assistants Provide Inconsistent Information on the Use of Unregulated Peptides Marketed for Musculoskeletal Recovery.",
+    "abstract": "Unregulated peptides like BPC-157 are heavily marketed for musculoskeletal recovery despite the lack of U.S. Food and Drug Administration approval and minimal evidence from human trials. With peptide content widely promoted on social media,…",
+    "authors": [
+      "Dipankar Yettapu",
+      "Mahan Miryala",
+      "Varshal Patel",
+      "Tracey L Bonfield",
+      "Jacob G Calcei",
+      "John M Apostolakos"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065586/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43065586",
+    "doi": "10.1177/15563316261503920",
+    "updated": "",
+    "venue": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s40200-026-02101-4": {
+    "title": "Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.",
+    "abstract": "Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the establis…",
+    "authors": [
+      "Sneha Shetty",
+      "Asmi Rangle",
+      "Anirban Goutam Mukherjee",
+      "Ankit Kumar Bharti",
+      "Sudip Prasad Jena",
+      "Sabina Evan Prince",
+      "Abilash Valsala Gopalakrishnan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065563/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43065563",
+    "doi": "10.1007/s40200-026-02101-4",
+    "updated": "",
+    "venue": "Journal of diabetes and metabolic disorders",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1002/cdt3.70078": {
+    "title": "From Gene Sets to Brain Function: A Physiology-Informed Framework for Multi-Omics Integration in Precision Neurophysiology.",
+    "abstract": "Public omics repositories and multi-omics technologies have substantially expanded the molecular characterization of chronic human diseases by enabling large-scale analyses across diverse biological and clinical contexts. However, in neurol…",
+    "authors": [
+      "Rukiye Ölçüoğlu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065518/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43065518",
+    "doi": "10.1002/cdt3.70078",
+    "updated": "",
+    "venue": "Chronic diseases and translational medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.2147/jir.s649505": {
+    "title": "Intellectual Structure and Thematic Evolution of Diabetes-Sepsis Research, 1992-2025: A Bibliometric and Science-Mapping Analysis.",
+    "abstract": "Diabetes is a major host comorbidity in sepsis, and research at this interface spans infection susceptibility, dysglycemia, inflammation, organ dysfunction, and outcomes. We mapped the intellectual structure and thematic evolution of a quer…",
+    "authors": [
+      "Zixuan Song",
+      "Yuhua Zhu",
+      "Shiyuan Li",
+      "Rui Qiao",
+      "Jinming Zhang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065486/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43065486",
+    "doi": "10.2147/jir.s649505",
+    "updated": "",
+    "venue": "Journal of inflammation research",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1177/0310057x261508878": {
+    "title": "Comment on 'Large language model prompt engineering for medical education: A practical guide for the Australian and New Zealand College of Anaesthetists Final Examination'.",
+    "abstract": "",
+    "authors": [
+      "Kelly Byrne"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065327/",
+    "published": "2026-11-21",
+    "source": "pubmed",
+    "source_id": "43065327",
+    "doi": "10.1177/0310057x261508878",
+    "updated": "",
+    "venue": "Anaesthesia and intensive care",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.2196/97887": {
+    "title": "Stress Biology, Vaginal Microbiome Dynamics, and Diagnostic Outcomes After Abnormal Cervical Cancer Screening: Protocol for a Digitally Enabled Multimodal Prospective Cohort Study.",
+    "abstract": "Cervical cancer risk is shaped by interacting psychosocial, biological, microbial, and clinical processes; however, few prospective studies integrate repeated biospecimens, ecological momentary assessment, wearable data, and electronic heal…",
+    "authors": [
+      "Katherine Tossas",
+      "Bianca D Owens",
+      "Sadia Sayeed",
+      "Myrlene Jeudy",
+      "Ciara Rhodes",
+      "Adanari Soria Flores",
+      "Myrna Serrano",
+      "Jerome Strauss Iii",
+      "Gregory A Buck",
+      "Jessica G LaRose"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065320/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43065320",
+    "doi": "10.2196/97887",
+    "updated": "",
+    "venue": "JMIR research protocols",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1111/anae.70462": {
+    "title": "Opioid-free vs. opioid-inclusive anaesthesia in laparoscopic cholecystectomy: a multicentre randomised controlled trial.",
+    "abstract": "Laparoscopic cholecystectomy is the most common abdominal operation worldwide, yet whether opioid-free anaesthesia improves the overall analgesic benefit remains uncertain. In this multicentre randomised controlled trial, adults undergoing …",
+    "authors": [
+      "Dan Wang",
+      "Liu Han",
+      "Yun Li",
+      "Jing-Hui Hu",
+      "Jiayu Jin",
+      "Wenya Guo",
+      "Fu-Hai Ji",
+      "Ke Peng"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065122/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43065122",
+    "doi": "10.1111/anae.70462",
+    "updated": "",
+    "venue": "Anaesthesia",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1111/ans.71079": {
+    "title": "Machine Learning Versus Traditional Methods for Predicting Venous Thromboembolism After Surgery: A Systematic Review and Bayesian Network Meta-Analysis.",
+    "abstract": "Postoperative venous thromboembolism remains a major cause of preventable morbidity after surgery, and established risk scores may perform inconsistently across surgical populations. MEDLINE, Embase and the Cochrane Library were searched fo…",
+    "authors": [
+      "Shichao Chen",
+      "Saavan Dhaliwal",
+      "Chris Papas",
+      "Ian Hughes",
+      "Su Kah Goh",
+      "Marcos V Perini",
+      "David S Liu",
+      "Justin M Yeung",
+      "Vijayaragavan Muralidharan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065092/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43065092",
+    "doi": "10.1111/ans.71079",
+    "updated": "",
+    "venue": "ANZ journal of surgery",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1186/s12903-026-10471-7": {
+    "title": "Deep learning-based CT segmentation of mandibular bone invasion in oral squamous cell carcinoma.",
+    "abstract": "Accurate identification of mandibular invasion by oral squamous cell carcinoma (OSCC) is important for virtual surgical planning, but manual delineation on CT is challenging and time-consuming. This retrospective proof-of-concept study eval…",
+    "authors": [
+      "David Steybe",
+      "Elisabeth Fiederling",
+      "Philipp Poxleitner",
+      "Sven Otto",
+      "Katharina Theresa Obermeier",
+      "Bastian Sabel",
+      "Stephan Rau",
+      "Marco Reisert",
+      "Maximilian Frederik Russe"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065017/",
+    "published": "2026-11-21",
+    "source": "pubmed",
+    "source_id": "43065017",
+    "doi": "10.1186/s12903-026-10471-7",
+    "updated": "",
+    "venue": "BMC oral health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1186/s12879-026-14599-3": {
+    "title": "Machine learning-derived discordance between predicted mortality risk and valve surgery utilisation in infective endocarditis: a nationwide population-level analysis including injection drug use-associated disease.",
+    "abstract": "Infective endocarditis (IE) carries high mortality, and valve surgery is indicated in selected patients on the basis of specific clinical circumstances assessed by a multidisciplinary Endocarditis Team. Predicted mortality risk is not equiv…",
+    "authors": [
+      "Mohamed Kamal Elbana",
+      "Amr Amin",
+      "Gasim Mohammed Ahmed",
+      "Mohamed Ebrahim Mohamed Mostafa",
+      "Aya Sherif",
+      "Mohamed Abdo Khalafallah"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064923/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43064923",
+    "doi": "10.1186/s12879-026-14599-3",
+    "updated": "",
+    "venue": "BMC infectious diseases",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s12072-026-11170-9": {
+    "title": "Machine learning-based risk prediction of hepatocellular carcinoma in patients with chronic hepatitis B: current evidence and future directions.",
+    "abstract": "Chronic hepatitis B (CHB) remains a major cause of hepatocellular carcinoma (HCC), and the risk persists despite potent nucleos(t)ide analogue therapy. Current surveillance relies on broad clinical categories and conventional risk scores, a…",
+    "authors": [
+      "Moon Haeng Hur",
+      "Jeong-Hoon Lee",
+      "Yoon Jun Kim"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064890/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064890",
+    "doi": "10.1007/s12072-026-11170-9",
+    "updated": "",
+    "venue": "Hepatology international",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1186/s13244-026-02451-w": {
+    "title": "Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment.",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification. This study…",
+    "authors": [
+      "Ji Wu",
+      "Xinhui Fu",
+      "Haoxiang Wu",
+      "Zhigang Zheng",
+      "Xiping Shen",
+      "Jianwu Wu",
+      "Yijie Lu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064878/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064878",
+    "doi": "10.1186/s13244-026-02451-w",
+    "updated": "",
+    "venue": "Insights into imaging",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1186/s43556-026-00670-7": {
+    "title": "Liquid biopsy and cancer therapy: current technology, diagnosis, prognosis, and cancer treatments.",
+    "abstract": "Liquid biopsy offers repeated, minimally invasive molecular profiling of cancer, but its clinical value depends on the analyte, analytical platform, and intended use. In this Review, we evaluate current liquid-biopsy technologies for diagno…",
+    "authors": [
+      "Limei Xu",
+      "Haorui Li",
+      "Caining Wen",
+      "Hao Li",
+      "Congying Wang",
+      "Hao Zhang",
+      "Yujie Liang",
+      "Xiao Xu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064877/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064877",
+    "doi": "10.1186/s43556-026-00670-7",
+    "updated": "",
+    "venue": "Molecular biomedicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s00520-026-11504-1": {
+    "title": "Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer.",
+    "abstract": "Androgen deprivation therapy (ADT) is associated with significant changes in body composition, promoting bone and muscle loss and increasing the risk of osteosarcopenia. This condition predisposes patients to adverse events such as falls, f…",
+    "authors": [
+      "Fiorella Ambrosio",
+      "Martina Persia",
+      "Andrea Bellieni",
+      "Luca Tagliaferri",
+      "Maria Antonietta Gambacorta",
+      "Vincenzo Frascino",
+      "Gabriele Abbatecola",
+      "Francesco Landi",
+      "Giuseppe Ferdinando Colloca"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064850/",
+    "published": "2026-11-21",
+    "source": "pubmed",
+    "source_id": "43064850",
+    "doi": "10.1007/s00520-026-11504-1",
+    "updated": "",
+    "venue": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s10585-026-10446-6": {
+    "title": "From uptake to interface: rethinking molecular imaging of histopathological growth patterns in colorectal cancer liver metastases.",
+    "abstract": "Recent work has proposed molecular imaging signatures, including [ 18 F]FDG and fibroblast activation protein inhibitor (FAPI) PET, for the noninvasive characterization of histopathological growth patterns (HGPs) in colorectal cancer liver …",
+    "authors": [
+      "Qinyi Li",
+      "Lijuan Kang",
+      "Zhiqiang Zhang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064848/",
+    "published": "2026-11-21",
+    "source": "pubmed",
+    "source_id": "43064848",
+    "doi": "10.1007/s10585-026-10446-6",
+    "updated": "",
+    "venue": "Clinical & experimental metastasis",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1038/s41582-026-01287-8": {
+    "title": "Potential and pitfalls of artificial intelligence to address disparities in epilepsy.",
+    "abstract": "The convergence of artificial intelligence (AI) and health care offers unprecedented opportunities to address global disparities in access to specialized epilepsy diagnosis and treatment, particularly in resource-limited settings. Advances …",
+    "authors": [
+      "Willem M Otte",
+      "Kette D Valente",
+      "Frank I van der Maas",
+      "Kees P J Braun",
+      "Gagandeep Singh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064818/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064818",
+    "doi": "10.1038/s41582-026-01287-8",
+    "updated": "",
+    "venue": "Nature reviews. Neurology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1038/s43018-026-01252-w": {
+    "title": "A multimodal foundation model for molecular and morphologic data in oncology.",
+    "abstract": "Foundation models are advancing computational pathology by transferring knowledge from large datasets to diagnostic, prognostic and treatment response tasks. Most existing models, however, either operate at the patch level or learn slide-le…",
+    "authors": [
+      "Anurag Vaidya",
+      "Andrew Zhang",
+      "Guillaume Jaume",
+      "Andrew H Song",
+      "Tong Ding",
+      "Sophia J Wagner",
+      "Ming Y Lu",
+      "Harry Robertson",
+      "Drew F K Williamson",
+      "Paul Doucet",
+      "Cristina Almagro-Perez",
+      "Richard J Chen",
+      "Dina ElHarouni",
+      "Georges Ayoub",
+      "Connor Bossi",
+      "Keith L Ligon",
+      "Ellis Patrick",
+      "Himisha Beltran",
+      "Laura Macconaill",
+      "Neal Lindeman",
+      "Lynette Sholl",
+      "Georg K Gerber",
+      "Long Phi Le",
+      "Faisal Mahmood"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064800/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064800",
+    "doi": "10.1038/s43018-026-01252-w",
+    "updated": "",
+    "venue": "Nature cancer",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s00381-026-07524-1": {
+    "title": "Neurosurgical outcome in infants with low-grade glioma - systematic review.",
+    "abstract": "Low-grade gliomas (LGGs) in infants pose significant clinical challenges due to their biologically distinct behavior and frequent location in surgically complex regions. While resection remains the preferred initial treatment, its feasibili…",
+    "authors": [
+      "H Dzionsko",
+      "C Lindenmeyer",
+      "S Horn",
+      "J Großer",
+      "T Brückner",
+      "T Thole-Kliesch",
+      "P Hernáiz Driever",
+      "U-W Thomale",
+      "I Fernandes Arroteia"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064798/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064798",
+    "doi": "10.1007/s00381-026-07524-1",
+    "updated": "",
+    "venue": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1007/s00117-026-01688-2": {
+    "title": "Multimodal CT perfusion for predicting outcome in first-ever acute stroke due to ICA or MCA-M1 occlusion.",
+    "abstract": "The present study aimed to assess the clinical significance of integrating multimodal computed tomography perfusion (CTP) parameters with metabolic indicators for predicting long-term outcomes among patients experiencing their first acute i…",
+    "authors": [
+      "Ningna Yang",
+      "Suicheng Zhang",
+      "Zhongrong Wei",
+      "Shaoqing Jiang",
+      "Weisi Dai",
+      "Chuanmei Chen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064795/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064795",
+    "doi": "10.1007/s00117-026-01688-2",
+    "updated": "",
+    "venue": "Radiologie (Heidelberg, Germany)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.cvsm.2026.10.001": {
+    "title": "Artificial Intelligence in Veterinary Radiology: What Is Available, How Is It Tested, How Should It Be Evaluated, and What Are the Legal Ramifications?",
+    "abstract": "Artificial intelligence (AI) is increasingly being integrated into veterinary diagnostic imaging, yet robust regulatory oversight, validation standards, and governance frameworks remain limited. This review examines the current landscape of…",
+    "authors": [
+      "Jane Renee Lund",
+      "David Brundage"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064607/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064607",
+    "doi": "10.1016/j.cvsm.2026.10.001",
+    "updated": "",
+    "venue": "The Veterinary clinics of North America. Small animal practice",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.euf.2026.11.003": {
+    "title": "Artificial Intelligence in Screening and Early Detection of Prostate Cancer.",
+    "abstract": "Artificial intelligence (AI) is transforming prostate cancer screening and early detection through the integration of clinical-risk calculators, magnetic resonance imaging (MRI), digital pathology, genomics, biomarkers, and liquid biopsies.…",
+    "authors": [
+      "Giovanni Enrico Cacciamani",
+      "Aalamnoor Singh Pannu",
+      "Erik Thimansson",
+      "Anders Bjartell"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064602/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064602",
+    "doi": "10.1016/j.euf.2026.11.003",
+    "updated": "",
+    "venue": "European urology focus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.acra.2026.11.014": {
+    "title": "Large Language Models and a Recently Revised Radiology Classification: Modified CIRSE Grading With and Without Current Criteria.",
+    "abstract": "Recently revised professional classifications may create a version mismatch for large language models, as plausible responses can reflect a superseded rather than the current schema. The modified Cardiovascular and Interventional Radiologic…",
+    "authors": [
+      "Oğuzhan Türksayar",
+      "Hamit Özgül",
+      "Ali Dablan",
+      "Mustafa Fatih Arslan",
+      "Çağrı Erdim",
+      "Mehmet Cingöz",
+      "Tevfik Güzelbey",
+      "Özgür Kılıçkesmez"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064601/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064601",
+    "doi": "10.1016/j.acra.2026.11.014",
+    "updated": "",
+    "venue": "Academic radiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.ejim.2026.107289": {
+    "title": "From snoring to obstructive sleep apnea: A narrative review of pathophysiology, clinical implications and multimodal management.",
+    "abstract": "Snoring is a highly prevalent acoustic phenomenon generated by vibration of the upper airway soft tissues during sleep. Long regarded as a benign social nuisance, it is increasingly recognised as a clinically informative manifestation of up…",
+    "authors": [
+      "Pasquale Tondo",
+      "Antonio Fabozzi",
+      "Andrea De Vito",
+      "Roberto Sabato",
+      "Mauro Lorusso",
+      "Alessia Steffanina",
+      "Michela Dimitri",
+      "Giulia Scioscia",
+      "Matteo Bonini",
+      "Domenico Ciavarella",
+      "Paolo Palange",
+      "Donato Lacedonia",
+      "Francesco Fanfulla"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064589/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064589",
+    "doi": "10.1016/j.ejim.2026.107289",
+    "updated": "",
+    "venue": "European journal of internal medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.placenta.2026.11.008": {
+    "title": "MRI-based radiomics and deep learning for the prenatal diagnosis of Placenta Accreta Spectrum: a systematic review and exploratory meta-analysis.",
+    "abstract": "accuracy of Placenta Accreta Spectrum (PAS) diagnosis using conventional magnetic resonance imaging (MRI) is still limited by subjective interpretation. Increasing evidence showed that radiomics and Deep Learning (DL) may improve diagnostic…",
+    "authors": [
+      "Angelo Sirico",
+      "Davide Pisani",
+      "Lucia Sandullo",
+      "Maria Fatigati",
+      "Ilenia Mappa",
+      "Giuseppe Maria Maruotti",
+      "Giuseppe Rizzo",
+      "Luigi Cobellis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064567/",
+    "published": "2026-11-18",
+    "source": "pubmed",
+    "source_id": "43064567",
+    "doi": "10.1016/j.placenta.2026.11.008",
+    "updated": "",
+    "venue": "Placenta",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1002/acn3.70574": {
+    "title": "Video-Based Automated Seizure Classification Using Multimodal Large Language Models.",
+    "abstract": "Accurately distinguishing between epileptic seizures (ES) and nonepileptic seizures (NES) remains a significant clinical challenge, typically requiring resource-intensive inpatient video-EEG monitoring. We developed a multimodal large langu…",
+    "authors": [
+      "Lina Zhang",
+      "Richard Jiang",
+      "Tonmoy Monsoor",
+      "Jessica N Pasqua",
+      "Colin M McCrimmon",
+      "Prateik Sinha",
+      "Kartik Sharma",
+      "Muayad Alzuabi",
+      "Victor E Morales",
+      "Hailey Miranda",
+      "Chaya Manjeshwar",
+      "Vwani Roychowdhury",
+      "Rajarshi Mazumder"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064535/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064535",
+    "doi": "10.1002/acn3.70574",
+    "updated": "",
+    "venue": "Annals of clinical and translational neurology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1055/a-3001-9600": {
+    "title": "Feasibility and Acceptability of a Large Language Model-Based Electronic Health Record Summarization Tool in Inpatient Care.",
+    "abstract": "Current health care practice requires providers to manually navigate through different electronic health record (EHR) sections to perform chart review and construct a complete picture of the patient's condition. This process is both time-co…",
+    "authors": [
+      "Kevin D Smith",
+      "Rebecca S Silverman",
+      "Heather L Himelhoch",
+      "Cheng-Kai Kao"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064362/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064362",
+    "doi": "10.1055/a-3001-9600",
+    "updated": "",
+    "venue": "Applied clinical informatics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical Agent",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.nano.2026.103051": {
+    "title": "Exosome-inspired biomimetic nanocarriers: Biological principles, fabrication strategies, characterization, and therapeutic applications.",
+    "abstract": "Biomimetic nanocarriers inspired by exosomes have emerged as a transformative strategy for precision drug delivery by combining the biological advantages of naturally derived extracellular vesicles with the scalability and tunability of syn…",
+    "authors": [
+      "Priya Sharma",
+      "Poonam Barala",
+      "Thakur Prava Jyoti",
+      "Raj Kamal",
+      "Neeraj Choudhary",
+      "Dinesh Kumar",
+      "Maninder Pal Singh"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064330/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064330",
+    "doi": "10.1016/j.nano.2026.103051",
+    "updated": "",
+    "venue": "Nanomedicine : nanotechnology, biology, and medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.mimet.2026.107776": {
+    "title": "Machine learning-based identification of virulence gene signatures for differentiating Salmonella enterica serovars in human clinical isolates.",
+    "abstract": "Non-typhoidal Salmonella enterica causes major foodborne illnesses worldwide. The traditional antigen-based method has difficulty distinguishing its lineages, while the core genome-based approach has limited discriminatory ability. Therefor…",
+    "authors": [
+      "Hamid Reza Sodagari",
+      "Rima D Shrestha"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064311/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064311",
+    "doi": "10.1016/j.mimet.2026.107776",
+    "updated": "",
+    "venue": "Journal of microbiological methods",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.jtho.2026.106259": {
+    "title": "Artificial Intelligence in Thoracic Pathology and Biomarker Assessment: An IASLC Pathology Committee Review.",
+    "abstract": "Artificial intelligence (AI) is starting to transform pathology by enhancing diagnostic accuracy, prognostication, and therapeutic prediction through advanced computational analysis of histopathological images. This review explores key AI m…",
+    "authors": [
+      "John Le Quesne",
+      "Ke Yuan",
+      "Farhan Akram",
+      "Sabina Berezowska",
+      "Lukas Bubendorf",
+      "Wei-Chin Chang",
+      "Teh-Ying Chou",
+      "Yuchen Han",
+      "Paul Hofman",
+      "David M Hwang",
+      "Deepali Jain",
+      "Philippe Joubert",
+      "Tae-Jung Kim",
+      "Sylvie Lantuejoul",
+      "Yuko Minami",
+      "Mari Mino-Kenudson",
+      "Andrew G Nicholson",
+      "Anja C Roden",
+      "Anjali Saqi",
+      "Kurt Schalper",
+      "Hyo Sup Shim",
+      "Erik Thunnissen",
+      "William Travis",
+      "Annikka Weissferdt",
+      "Yasushi Yatabe",
+      "Wendy A Cooper",
+      "Sanja Dacic",
+      "Fernando Lopez-Rios",
+      "Jan von der Thüsen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064238/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064238",
+    "doi": "10.1016/j.jtho.2026.106259",
+    "updated": "",
+    "venue": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.labinv.2026.106183": {
+    "title": "Prognostic Significance of AI-Quantified Central Tumor-Infiltrating Lymphocytes in Bladder Cancer.",
+    "abstract": "Tumor-infiltrating lymphocytes (TILs) are associated with clinical outcomes in bladder cancer; however, conventional assessment methods are limited by subjective scoring and interobserver variability. We aimed to evaluate the prognostic sig…",
+    "authors": [
+      "Suk-Young Lee",
+      "Sungyong Jang",
+      "Daehong Lee",
+      "Donghyeok Jo",
+      "Heehun Jeong",
+      "Jaewon Oh",
+      "Jaehoon Shin",
+      "Aeree Kim",
+      "Chungyeul Kim",
+      "Baek-Hui Kim",
+      "Yikyeong Chun",
+      "Heesoo Kim",
+      "Ja-Min Park",
+      "Sun Young Yoon",
+      "Yong Mee Cho",
+      "Dong-Joo Kim",
+      "Jongwon Lee"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064200/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064200",
+    "doi": "10.1016/j.labinv.2026.106183",
+    "updated": "",
+    "venue": "Laboratory investigation; a journal of technical methods and pathology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.cmi.2026.11.017": {
+    "title": "Two-sample machine-learning estimation of rifampicin exposure in tuberculosis: an external validation study.",
+    "abstract": "Subtherapeutic rifampicin exposure drives treatment failure and acquired resistance in tuberculosis. We aimed to develop and externally validate a concentration-driven machine learning (ML) model predicting rifampicin systemic exposure (AUC…",
+    "authors": [
+      "Hamza Sayadi",
+      "João Paulo Bianchi Ximenez",
+      "Yeleen Fromage",
+      "Abdullah Alsultan",
+      "Glauco Henrique Balthazar Nardotto",
+      "Vera Lucia Lanchote",
+      "Marc Labriffe",
+      "Caroline Monchaud",
+      "Cyrielle Codde",
+      "Pierre Marquet",
+      "Charles A Peloquin",
+      "Jean-Baptiste Woillard"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064154/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064154",
+    "doi": "10.1016/j.cmi.2026.11.017",
+    "updated": "",
+    "venue": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.amjmed.2026.11.005": {
+    "title": "Impact of weight reduction therapies on fibrosis and adverse liver outcomes in metabolic dysfunction-associated liver disease: an evidence-based review.",
+    "abstract": "Attenuation of fibrosis progression represents an important therapeutic goal in metabolic dysfunction-associated steatohepatitis (MASH), given the association of advancing fibrosis with adverse clinical outcomes. Guidelines recommend weight…",
+    "authors": [
+      "Naim Alkhouri",
+      "Jaideep Behari",
+      "Danielle Zielinski",
+      "Eduardo Vilar-Gomez"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064100/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064100",
+    "doi": "10.1016/j.amjmed.2026.11.005",
+    "updated": "",
+    "venue": "The American journal of medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.apjo.2026.100391": {
+    "title": "Systematic review of artificial intelligence for ocular imaging-based ageing measures: evidence, challenges, and clinical potential.",
+    "abstract": "Healthy ageing is a global health priority as populations age and chronic disease burden increases. Artificial intelligence (AI) applied to ocular imaging is a potential approach for deriving non-invasive markers of ageing. This review eval…",
+    "authors": [
+      "Krithi Pushpanathan",
+      "Gabriel Dawei Yang",
+      "Min Kyu Kim",
+      "Qingsheng Peng",
+      "Zhi Da Soh",
+      "Siegfried K Wagner",
+      "Yukun Zhou",
+      "Lisa Zhuoting Zhu",
+      "Can Can Xue",
+      "Yih-Chung Tham"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064073/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064073",
+    "doi": "10.1016/j.apjo.2026.100391",
+    "updated": "",
+    "venue": "Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "eye_models_epdat",
+      "eye_models_edat",
+      "eye_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.ad.2026.104786": {
+    "title": "Disappearing nail bed syndrome: Pathophysiology, mechanotransduction, clinical progression, and multimodal treatment.",
+    "abstract": "Disappearing nail bed (DNB) is characterized by progressive shortening of the nail bed following chronic onycholysis, with a reduction in nail bed surface area of ≥20% compared with the contralateral digit. Characteristic changes include su…",
+    "authors": [
+      "A Ávila",
+      "L Navarro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064015/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064015",
+    "doi": "10.1016/j.ad.2026.104786",
+    "updated": "",
+    "venue": "Actas dermo-sifiliograficas",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.neubiorev.2026.107095": {
+    "title": "Brain-Computer Interfaces for Traumatic Brain Injury and Spinal Cord Injury: Lesion-Pattern Matching, Functional Restoration, and Clinical Translation.",
+    "abstract": "Brain-computer interfaces (BCIs) are increasingly being developed for clinically relevant assessment, communication, rehabilitation, and functional restoration after central nervous system injury. However, their clinical roles differ substa…",
+    "authors": [
+      "Peng Liu",
+      "Lunbi Wu",
+      "Jiaojiang He",
+      "Liangxue Zhou"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064007/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43064007",
+    "doi": "10.1016/j.neubiorev.2026.107095",
+    "updated": "",
+    "venue": "Neuroscience and biobehavioral reviews",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1055/a-3009-7011": {
+    "title": "Evaluating a Large Language Model Conversational Agent for Collecting Standardized Back Pain Data: A Cross-Over Study of Accuracy, Usability, and User Preference.",
+    "abstract": "Background Collecting standardized patient-reported outcome data through forms is burdensome for patients and clinicians. Objectives To evaluate a large language model (LLM)-based conversational agent (CA), intended for patients with back p…",
+    "authors": [
+      "David Fraile Navarro",
+      "Mor Peleg"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063990/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063990",
+    "doi": "10.1055/a-3009-7011",
+    "updated": "",
+    "venue": "Methods of information in medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_epdat",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1055/a-3003-2319": {
+    "title": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation.",
+    "abstract": "Multimodal AI can generate rhinoplasty advice and postoperative simulations, but patient-specific validity is uncertain. We assessed expert ratings of clinical content, image quality, coherence, and consultation utility. GPT-5.5 generated r…",
+    "authors": [
+      "Sholem Hack",
+      "Matthew K Lee",
+      "Eli Gordin",
+      "Salman Hasan",
+      "Ophir Elizur",
+      "Elia Rosenfeld Elizur",
+      "Grant S Hamilton Iii",
+      "Deanna C Menapace",
+      "Eran Glikson"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063989/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063989",
+    "doi": "10.1055/a-3003-2319",
+    "updated": "",
+    "venue": "Facial plastic surgery : FPS",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1055/a-3002-3157": {
+    "title": "The Role of Diagnostic Tools in the Management of Ventilator Associated Lower Respiratory Tract Infections.",
+    "abstract": "Ventilator-associated pneumonia (VAP) remains a leading healthcare-associated infection in intensive care units and is closely associated with prolonged mechanical ventilation, excessive antimicrobial exposure, higher costs, and poor clinic…",
+    "authors": [
+      "Ignacio Martin-Loeches",
+      "Yunsong Yu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063987/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063987",
+    "doi": "10.1055/a-3002-3157",
+    "updated": "",
+    "venue": "Seminars in respiratory and critical care medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1213/ane.0000000000008405": {
+    "title": "A Machine Learning-Based Early Warning System for Renal Replacement Therapy in the Intensive Care Unit.",
+    "abstract": "Renal replacement therapy (RRT) is a life-saving intervention for acute kidney injury in the intensive care unit (ICU). The decision to initiate RRT remains highly complex and subjective. Accurate and timely predictions for the need of RRT …",
+    "authors": [
+      "Behrooz Mamandipoor",
+      "Julian McAuley",
+      "Martin Krause",
+      "Ulrich H Schmidt",
+      "Chun-Nan Hsu",
+      "Rodney A Gabriel"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063976/",
+    "published": "2026-11-17",
+    "source": "pubmed",
+    "source_id": "43063976",
+    "doi": "10.1213/ane.0000000000008405",
+    "updated": "",
+    "venue": "Anesthesia and analgesia",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/s1470-2045(26)00445-6": {
+    "title": "Organ-preserving multimodal therapy for patients with high-risk upper tract urothelial carcinoma in China (DISTINCT-I): a single-arm, phase 2 trial.",
+    "abstract": "Radical nephroureterectomy is the standard treatment for patients with high-risk upper tract urothelial carcinoma, but causes irreversible nephron loss and can limit subsequent systemic therapy. We aimed to assess a response-adapted kidney-…",
+    "authors": [
+      "Jiwei Huang",
+      "Hailong Hu",
+      "Cheoklong Ng",
+      "Lei Xia",
+      "Qiong Chen",
+      "Houyuan Chen",
+      "Yingjie Ding",
+      "Chenghan Du",
+      "Shaochen Cheng",
+      "Chong Shen",
+      "Yunkai Qie",
+      "Yuda Lin",
+      "Jiahua Pan",
+      "Wei Xue"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063963/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063963",
+    "doi": "10.1016/s1470-2045(26)00445-6",
+    "updated": "",
+    "venue": "The Lancet. Oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.medj.2026.101364": {
+    "title": "Continual learning in oncology AI: A framework for safe clinical translation.",
+    "abstract": "AI models remain largely static, yet cancer care never stands still. Evolution of scanning technology, imaging protocols, staging criteria, therapies, and patient populations can silently erode model performance and patient safety. Continua…",
+    "authors": [
+      "Amgad Muneer",
+      "Pinfeng Huang",
+      "Muthu Subash Kavitha",
+      "Anas Zafar",
+      "Morteza Salehjahromi",
+      "Ajay Sheshadri",
+      "Carol C Wu",
+      "Brett W Carter",
+      "Cara L Haymaker",
+      "Luisa Solis Soto",
+      "David Jaffray",
+      "David C Rice",
+      "Zhongxing Liao",
+      "Joe Y Chang",
+      "Mehmet Altan",
+      "Natalie I Vokes",
+      "John V Heymach",
+      "Jianjun Zhang",
+      "Jia Wu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063946/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063946",
+    "doi": "10.1016/j.medj.2026.101364",
+    "updated": "",
+    "venue": "Med (New York, N.Y.)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.colsurfb.2026.116340": {
+    "title": "Seeing deeper, seeing more: Complementary philosophy in the constructions of fluorescence imaging probes for surgical navigation.",
+    "abstract": "Optical imaging offers a powerful visualization modality for precise intraoperative navigation. The core of intraoperative navigation lies in reliably distinguishing lesions from surrounding normal tissues during surgery. For optical imagin…",
+    "authors": [
+      "Chun Zhang",
+      "Yue Yuan",
+      "Xian Wu",
+      "Qinmei Zhong",
+      "Wei Tang",
+      "Sheng-Tao Yang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063895/",
+    "published": "2026-11-17",
+    "source": "pubmed",
+    "source_id": "43063895",
+    "doi": "10.1016/j.colsurfb.2026.116340",
+    "updated": "",
+    "venue": "Colloids and surfaces. B, Biointerfaces",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.ijmedinf.2026.106822": {
+    "title": "From attribution to causation: A probability-sampled methodological audit of SHAP implementation and explanation validation in published clinical oncology machine learning.",
+    "abstract": "Shapley additive explanations (SHAP) feature attributions can explain oncology prediction models, but technical reporting, empirical explanation evaluation and causal interpretation require separate assessment. To audit explanation implemen…",
+    "authors": [
+      "Qiyuan Liu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063845/",
+    "published": "2026-11-17",
+    "source": "pubmed",
+    "source_id": "43063845",
+    "doi": "10.1016/j.ijmedinf.2026.106822",
+    "updated": "",
+    "venue": "International journal of medical informatics",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.neo.2026.101409": {
+    "title": "A dendritic cell-related prognostic signature in glioma: A multi-omic framework integrating transcriptomics, single-cell profiling, and clinical validation.",
+    "abstract": "Dendritic cells (DCs) infiltrating the glioma microenvironment can promote antitumor immunity or contribute to immunosuppression and immune escape. This dual role underscores the need to define dendritic cell-related genes (DCRGs) for progn…",
+    "authors": [
+      "Sujie Gu",
+      "Zhonghao Dou",
+      "Peng Zhang",
+      "Hongfu Zhang",
+      "Jianjun Gu",
+      "Yueyang Ba"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063790/",
+    "published": "2026-11-16",
+    "source": "pubmed",
+    "source_id": "43063790",
+    "doi": "10.1016/j.neo.2026.101409",
+    "updated": "",
+    "venue": "Neoplasia (New York, N.Y.)",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.parkreldis.2026.109063": {
+    "title": "Development and validation of a predictive model for assisted walking in Multiple System Atrophy: a multicenter bidirectional cohort study.",
+    "abstract": "To develop and validate machine learning-based predictive prognostic models for assisted walking in patients with Multiple System Atrophy (MSA). This was a multicenter bidirectional cohort study involving 173 patients with MSA (training set…",
+    "authors": [
+      "Jing Bai",
+      "Xiaobing Li",
+      "Xin Guo",
+      "Bo Hui",
+      "Yaqian Mu",
+      "Wanting Li",
+      "Lei Zhang",
+      "Yaowen Luo",
+      "Junkai Cheng",
+      "Juan Li",
+      "Lei Shang",
+      "Bo Wang",
+      "Yan Shi",
+      "Jingjing Cao",
+      "Gejuan Zhang",
+      "Rui Li",
+      "Ya Bai",
+      "Xuedong Liu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063725/",
+    "published": "2026-11-14",
+    "source": "pubmed",
+    "source_id": "43063725",
+    "doi": "10.1016/j.parkreldis.2026.109063",
+    "updated": "",
+    "venue": "Parkinsonism & related disorders",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1016/j.ienj.2026.101933": {
+    "title": "Machine learning-supported polytrauma triage decision support: A concept analysis for emergency nursing.",
+    "abstract": "Polytrauma triage requires rapid prioritization under conditions of incomplete information, physiological instability, crowding, and high consequences of error. Machine learning (ML) is increasingly discussed as a means of strengthening eme…",
+    "authors": [
+      "Erwan Setiyono",
+      "Cecep Eli Kosasih",
+      "Yanny Trisyani"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063551/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "43063551",
+    "doi": "10.1016/j.ienj.2026.101933",
+    "updated": "",
+    "venue": "International emergency nursing",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.1136/bmjopen-2026-117999": {
+    "title": "Development and validation of a machine learning model to predict outpatient appointment non-attendance: a retrospective study using multisource NHS electronic health records from Lewisham.",
+    "abstract": " To develop and validate a predictive model to estimate the risk of outpatient non-attendance (‘did not attend’, DNA) at the appointment-level, with the aim of enabling targeted interventions that reduce DNAs and improve clinic efficiency. …",
+    "authors": [
+      "Somil Parmar",
+      "Rachael Smith",
+      "Olivia Reed",
+      "Jurgita Gammall"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057716/",
+    "published": "2026-11-19",
+    "source": "pubmed",
+    "source_id": "43057716",
+    "doi": "10.1136/bmjopen-2026-117999",
+    "updated": "",
+    "venue": "BMJ open",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_epdat",
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:12+00:00"
+  },
+  "doi:10.3389/fnagi.2026.1930735": {
+    "title": "Multimodal MRI and blood-based epigenomic and protein-based multiomics profiling in mild neurocognitive disorder: a single-center cross-sectional observational study protocol.",
+    "abstract": "Mild neurocognitive disorder (mild NCD) is a clinically relevant stage of cognitive decline with heterogeneous clinical trajectories that remain poorly characterized, limiting efforts to identify early markers of disease progression. It may…",
+    "authors": [
+      "Hye Jeong Kook",
+      "Jae Hyeong Sim",
+      "Ae-Ran Kim",
+      "Bok-Nam Seo",
+      "Hyungjun Kim",
+      "Ojin Kwon",
+      "Youngkyu Song",
+      "SoHyun Han",
+      "Sungho Tak",
+      "Yang-Chun Park",
+      "In Chul Jung"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065618/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065618",
+    "doi": "10.3389/fnagi.2026.1930735",
+    "updated": "",
+    "venue": "Frontiers in aging neuroscience",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fphar.2026.1970939": {
+    "title": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design.",
+    "abstract": "The pharmaceutical landscape is witnessing a profound \"Peptide Renaissance,\" driven primarily by the clinical success of GLP-1 receptor agonists and reinforced by engineering advanced drug delivery platforms. This review provides a comprehe…",
+    "authors": [
+      "Franck Morceau",
+      "YoungJun Kim",
+      "Yong-Jun Kwon",
+      "Yong Jae Shin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065609/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065609",
+    "doi": "10.3389/fphar.2026.1970939",
+    "updated": "",
+    "venue": "Frontiers in pharmacology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fimmu.2026.1965629": {
+    "title": "Integrative multi-omics, machine learning, computational toxicology, and experimental validation reveal PFAS-associated immune-inflammatory signatures in chronic obstructive pulmonary disease.",
+    "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants increasingly implicated in respiratory disorders. However, the systems-level connections among PFAS-associated molecular perturbations, immune dysregulatio…",
+    "authors": [
+      "Zhengyu Hu",
+      "Yuanlan Yang",
+      "Jialin Yu",
+      "Miaomiao Nian",
+      "Jieda Cui",
+      "Pixin Ran",
+      "Xia Cao",
+      "Hongxia Xin",
+      "Xiuyan Wang",
+      "Guilan Yang",
+      "Zhenzhen Gui",
+      "Zhanbing Ma",
+      "Juan Chen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065562/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065562",
+    "doi": "10.3389/fimmu.2026.1965629",
+    "updated": "",
+    "venue": "Frontiers in immunology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fonc.2026.1799622": {
+    "title": "An integrated serum peptidomics and multi-algorithm machine learning approach for early diagnosis of lung cancer.",
+    "abstract": "Lung cancer is one of the leading causes of cancer-related mortality worldwide. Due to the lack of specific symptoms at early stages, most patients are diagnosed at advanced stages, underscoring the need for reliable non-invasive early dete…",
+    "authors": [
+      "Li Cao",
+      "Jie Ding",
+      "Aihong Guo",
+      "Lihong Zhao",
+      "Bingju Wang",
+      "Zefeng Liu",
+      "Jiajing Zhao",
+      "Lin Han",
+      "Wen Li",
+      "Wei Zhang",
+      "Jiangbo Ding",
+      "Huange Zhu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065552/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065552",
+    "doi": "10.3389/fonc.2026.1799622",
+    "updated": "",
+    "venue": "Frontiers in oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fonc.2026.1990056": {
+    "title": "Anlotinib combined with chemotherapy in metastatic desmoplastic small round cell tumor: a case report.",
+    "abstract": "Desmoplastic small round cell tumor (DSRCT), a rare and highly aggressive sarcoma with predilection for adolescents, diagnosed through histopathology, immunohistochemistry, and cytogenetic studies to confirm its variable phenotypic expressi…",
+    "authors": [
+      "Yalu Dong",
+      "Weiwei He",
+      "Qian Xie",
+      "Liping Yang",
+      "Yongqiang Wang",
+      "XiaoWei Zhao",
+      "Zheng Li"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065548/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065548",
+    "doi": "10.3389/fonc.2026.1990056",
+    "updated": "",
+    "venue": "Frontiers in oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fimmu.2026.1986039": {
+    "title": "Integrated proteomic, genetic, and machine-learning analyses reveal a CXCL11-centered inflammatory signature associated with systemic activity in Sjögren's disease.",
+    "abstract": "Sjögren's disease (SjD) exhibits substantial clinical heterogeneity, and molecular biomarkers for systemic activity stratification remain limited. This study aimed to identify inflammatory protein signatures associated with systemic activit…",
+    "authors": [
+      "Jiale He",
+      "Kesong Li",
+      "Canran Xie",
+      "Jianying Yang",
+      "Xieli Ma",
+      "Jiahan Li",
+      "Yankai Cao",
+      "Xinyao Zhou",
+      "Quan Jiang",
+      "Xiaopo Tang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065526/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065526",
+    "doi": "10.3389/fimmu.2026.1986039",
+    "updated": "",
+    "venue": "Frontiers in immunology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fpubh.2026.1936957": {
+    "title": "Effectiveness of intervention using artificial intelligence for students with disabilities: systematic review and meta-analysis.",
+    "abstract": "Algorithmic systems do not sufficiently capture the contextual nuances of disability, thereby risking model bias and reducing ecological validity. Hence, this review aims to investigate the various pedagogical and ethical concerns that have…",
+    "authors": [
+      "Eun-Young Park",
+      "Ok-In Lee",
+      "Heeju Kim",
+      "Hun-Soo Bok",
+      "Soojung Chae"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065523/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065523",
+    "doi": "10.3389/fpubh.2026.1936957",
+    "updated": "",
+    "venue": "Frontiers in public health",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fmed.2026.1914546": {
+    "title": "Development of a machine learning-based treatment-response prediction model for levetiracetam in pediatric epilepsy: integrating ABCB1 polymorphism and therapeutic drug monitoring.",
+    "abstract": "Empirical dosing of levetiracetam (LEV) in pediatric epilepsy often yields variable outcomes. This study aimed to develop a machine learning-based treatment-response prediction model integrating therapeutic drug monitoring (TDM) and ABCB1 C…",
+    "authors": [
+      "Xukun Liao",
+      "Liangming Zhang",
+      "Jingdong Cheng",
+      "Fangyu Song",
+      "Zijun Yan"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065425/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065425",
+    "doi": "10.3389/fmed.2026.1914546",
+    "updated": "",
+    "venue": "Frontiers in medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fonc.2026.1996172": {
+    "title": "Case Report: Multimodal treatment of cervical intramedullary spinal cord metastasis from gastric adenocarcinoma.",
+    "abstract": "Intramedullary spinal cord metastasis (ISCM) from gastric adenocarcinoma is extremely rare, and treatment is not standardized. A 59-year-old man with a 22-month history of gastric adenocarcinoma developed acute quadriplegia during systemic …",
+    "authors": [
+      "Yingna Wu",
+      "Yu Dai",
+      "Tao Fan",
+      "Yingjie Song"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065422/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065422",
+    "doi": "10.3389/fonc.2026.1996172",
+    "updated": "",
+    "venue": "Frontiers in oncology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.7759/cureus.118271": {
+    "title": "Awareness and Utilization of AI-Powered Smile Design Software Among Dental Students: A Pilot Study.",
+    "abstract": "Background and objective Artificial intelligence (AI) is increasingly influencing dental diagnosis and aesthetic planning. AI-driven smile design tools allow dentists to replicate aesthetic outcomes using facial and dental data. However, im…",
+    "authors": [
+      "Shradha Anil Kuzhivilayil",
+      "Midhun K R",
+      "Suhana Rahman P A"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065410/",
+    "published": "2026-10-20",
+    "source": "pubmed",
+    "source_id": "43065410",
+    "doi": "10.7759/cureus.118271",
+    "updated": "",
+    "venue": "Cureus",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fmed.2026.1957470": {
+    "title": "Interpretable machine learning model for predicting major adverse kidney events within 30 days in critically ill patients with acute pancreatitis: development and validation in multicenter cohorts.",
+    "abstract": "Acute kidney injury is a frequent and serious complication of acute pancreatitis (AP), contributing to increased mortality and healthcare burden. Major adverse kidney events within 30 days (MAKE30) constitute a patient-centered composite en…",
+    "authors": [
+      "Yi Ding",
+      "Chengyu Li",
+      "Xuecheng Bai",
+      "Junjie Lu",
+      "Jiazhi Zhang",
+      "Yang Zou",
+      "Xiaoli Yang",
+      "Bo Li"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065402/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065402",
+    "doi": "10.3389/fmed.2026.1957470",
+    "updated": "",
+    "venue": "Frontiers in medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fmed.2026.1994028": {
+    "title": "Association between generative AI dependence and medical students' clinical reasoning: the statistical mediating role of critical thinking and the moderating role of AI literacy.",
+    "abstract": "Generative artificial intelligence (GenAI) is rapidly transforming medical education. However, its educational consequences depend not only on the extent of use but also on whether students develop excessive dependence on AI-generated outpu…",
+    "authors": [
+      "Guofang Wei",
+      "Yanling Wang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065391/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065391",
+    "doi": "10.3389/fmed.2026.1994028",
+    "updated": "",
+    "venue": "Frontiers in medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt",
+      "medical_agents_edat",
+      "medical_agents_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.3389/fendo.2026.1894495": {
+    "title": "Explainable machine learning models for endometriosis diagnosis: a retrospective development and validation study.",
+    "abstract": "This study aimed to develop and validate machine learning (ML) models for diagnosing endometriosis based on common clinical characteristics, aiming to offer guidance for clinical screening and early diagnosis of endometriosis. We retrospect…",
+    "authors": [
+      "Lina Chen",
+      "Xianqian Chen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065352/",
+    "published": "2026-11-06",
+    "source": "pubmed",
+    "source_id": "43065352",
+    "doi": "10.3389/fendo.2026.1894495",
+    "updated": "",
+    "venue": "Frontiers in endocrinology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1016/j.infpip.2026.100620": {
+    "title": "Performance of predictive models for infection in knee arthroplasty surgeries: an analysis of a clinical cohort from routine surveillance at a rehabilitation hospital.",
+    "abstract": "Despite the high success rate of primary total knee arthroplasty (TKA), postoperative complications, such as surgical site infection (SSI), still pose a significant challenge. SSI can compromise surgical outcomes, prolong patient recovery, …",
+    "authors": [
+      "Eleonora Maria de Jesus Oliveira",
+      "Guilherme José da Nóbrega Danda",
+      "Elisabeth Carmen Duarte"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065335/",
+    "published": "2026-10-26",
+    "source": "pubmed",
+    "source_id": "43065335",
+    "doi": "10.1016/j.infpip.2026.100620",
+    "updated": "",
+    "venue": "Infection prevention in practice",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.22074/cellj.2026.736266": {
+    "title": "The Fourth WANA International Congress on \"Stem Cells in Regenerative Medicine\": A Brief Report.",
+    "abstract": "The 4 th West Asia and North Africa (WANA) International Congress, held on May 3-4, 2025 in Kish Island (Iran), was a significant event organized by the Royan Institute in collaboration with domestic and international partners. It gathered …",
+    "authors": [
+      "Fateme Hasheminejad",
+      "Oula El Atat",
+      "Zeinab Ghezelayagh",
+      "Rouhollah Fathi",
+      "Hossein Baharvand",
+      "Reza Rahbarghazi",
+      "Negar Azarpira",
+      "Asma Gul",
+      "Hengameh Dortaj",
+      "Mohammad Ali Sadighi Gilani",
+      "Firouzeh Ghaffari",
+      "Naser Aghdami",
+      "Elham Vojoudi",
+      "Salem Shalaweh",
+      "Behzad Moshiri",
+      "Mehran Maghsoudloo",
+      "Amir Amiri-Yekta",
+      "Armin Attar",
+      "Fatemeh Rahbarizadeh",
+      "Sulaiman Al-Hashimi",
+      "Fatima Abbas Al Jamali",
+      "Yahya Kiwan",
+      "Nasrin Lotfibakhshaiesh",
+      "Hakan Darici",
+      "Balal Khalilzadeh",
+      "Şükrü Tüzmen",
+      "Ali Moradi",
+      "Fatemeh Pishehvarzad",
+      "Havva Özgen Eyüpoğlu",
+      "Leila Rashki Ghaleno",
+      "Mustapha Najimi",
+      "Massoud Vosough"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065321/",
+    "published": "2026-06-21",
+    "source": "pubmed",
+    "source_id": "43065321",
+    "doi": "10.22074/cellj.2026.736266",
+    "updated": "",
+    "venue": "Cell journal",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.6002/ect.2026.0207": {
+    "title": "A Systems-Based Framework for Launching a Liver Transplant Program: Autologous Liver Transplant as a High-Fidelity Readiness Model.",
+    "abstract": "Here, we describe a reproducible, high-fidelity framework for preparation of a multidisciplinary team and provide validation of institutional systems readiness before launch of a new liver transplant program. We developed a stepwise, multim…",
+    "authors": [
+      "Sameh A Fayek",
+      "Alice Jones",
+      "Jacqueline C Fannin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065249/",
+    "published": "2026-10-01",
+    "source": "pubmed",
+    "source_id": "43065249",
+    "doi": "10.6002/ect.2026.0207",
+    "updated": "",
+    "venue": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1002/cam4.72383": {
+    "title": "Exploratory Research to Expand Cancer Genetic Services for Spanish-Preferring Latinas via a Mobile Mammography Clinic in Utah.",
+    "abstract": "Mobile clinics may be an opportune mechanism for delivering cancer genetic testing to underserved populations. This study sought to characterize current workflows and patient journeys in a mobile mammography program and to understand patien…",
+    "authors": [
+      "Peter Taber",
+      "Leticia Stevens",
+      "Daniel Chavez-Yenter",
+      "Ximena Zendejas-Portugal",
+      "Guilherme Del Fiol",
+      "Crystal Y Lumpkins",
+      "Whitney F Maxwell",
+      "Lynette Phillips",
+      "Kimberly A Kaphingst"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065179/",
+    "published": "2026-11-01",
+    "source": "pubmed",
+    "source_id": "43065179",
+    "doi": "10.1002/cam4.72383",
+    "updated": "",
+    "venue": "Cancer medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1186/s12912-026-05203-9": {
+    "title": "Development and external validation of a machine learning model for early identification of hypotension associated with renal replacement therapy in ICU patients.",
+    "abstract": "Renal replacement therapy (RRT) is essential for critically ill patients in the intensive care unit (ICU), yet hypotension remains its most common complication, increasing the risk of organ hypoperfusion and poor outcomes. No reliable tool …",
+    "authors": [
+      "Zhenyuan Yu",
+      "Huan Tang",
+      "Wenjia Ye",
+      "Zixin Gu",
+      "Yu Fu",
+      "Rong Yao",
+      "Ying Guan",
+      "Yonghong Shen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065051/",
+    "published": "2026-08-08",
+    "source": "pubmed",
+    "source_id": "43065051",
+    "doi": "10.1186/s12912-026-05203-9",
+    "updated": "",
+    "venue": "BMC nursing",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1186/s12886-026-05276-9": {
+    "title": "Asteroid hyalosis in a 33-year-old female aircrew member mimicking synchysis scintillans: a case report.",
+    "abstract": "Asteroid hyalosis (AH) is a primary vitreous degeneration typically seen in individuals over 50 years of age. Early-onset AH is extremely rare and prone to misdiagnosis, as it shares overlapping onset ages with synchysis scintillans (SS) an…",
+    "authors": [
+      "Linlin Liu",
+      "Wen Ma",
+      "Qingling Liang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064982/",
+    "published": "2026-08-27",
+    "source": "pubmed",
+    "source_id": "43064982",
+    "doi": "10.1186/s12886-026-05276-9",
+    "updated": "",
+    "venue": "BMC ophthalmology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1186/s12871-026-04212-0": {
+    "title": "Comparison of seven machine learning models for predicting prolonged PACU length of stay: performance evaluation and identification of key influencing factors.",
+    "abstract": "Prolonged stays in the post-anesthesia care unit (PACU) significantly increase healthcare resource utilization and delay postoperative recovery. Current research on PACU prolonged stays is mostly limited to univariate analyses, lacking mult…",
+    "authors": [
+      "Na Zhu",
+      "Xiangqing Xiong",
+      "Xuan Wu",
+      "Xiangyang Chen",
+      "Sizhe Feng"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064969/",
+    "published": "2026-08-28",
+    "source": "pubmed",
+    "source_id": "43064969",
+    "doi": "10.1186/s12871-026-04212-0",
+    "updated": "",
+    "venue": "BMC anesthesiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1186/s12872-026-06234-5": {
+    "title": "Artificial intelligence in electrocardiogram interpretation for cardiovascular diagnosis and risk prediction: a systematic review of evidence through May 2026.",
+    "abstract": "Artificial intelligence-enabled electrocardiogram (ECG) analysis has expanded across cardiovascular diagnosis, monitoring, and risk prediction, but published studies vary in methodology, validation, and clinical applicability. We systematic…",
+    "authors": [
+      "Mohamed Elhussain",
+      "Esra Abdalla",
+      "Ragda Ali",
+      "Mazen Ahmed",
+      "Esraa Mustafa",
+      "Hoyam Elhaj Omer",
+      "Rufida Salih",
+      "Razan Hassan",
+      "Fatima Ahmed",
+      "Heba Elabadi",
+      "Ali Mohamedshata",
+      "Salwan Mustafa",
+      "Nadir Abdelrahman"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064945/",
+    "published": "2026-08-28",
+    "source": "pubmed",
+    "source_id": "43064945",
+    "doi": "10.1186/s12872-026-06234-5",
+    "updated": "",
+    "venue": "BMC cardiovascular disorders",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1186/s12871-026-04211-1": {
+    "title": "Early postoperative pain trajectories in a real-world surgical cohort: a prospective observational study.",
+    "abstract": "Acute postoperative pain remains a major challenge in perioperative medicine and is associated with delayed recovery and an increased risk of chronic postsurgical pain. Although numerous demographic, clinical, surgical, and psychosocial fac…",
+    "authors": [
+      "Miodrag Milenovic",
+      "Dusica Simic",
+      "Tijana Nastasovic",
+      "Ivana Petrov",
+      "Ana Mandras",
+      "Marija Rajkovic",
+      "Aleksandra Nikolic",
+      "Zorana Pavlovic",
+      "Bojana Matejic"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064932/",
+    "published": "2026-08-27",
+    "source": "pubmed",
+    "source_id": "43064932",
+    "doi": "10.1186/s12871-026-04211-1",
+    "updated": "",
+    "venue": "BMC anesthesiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1067/j.cpradiol.2026.11.006": {
+    "title": "Real world navigation of the AI governance imperative in radiology.",
+    "abstract": "The rapid rise in the development and adoption of artificial intelligence (AI) enabled tools within medical imaging and healthcare has brought with it the important need to assure expected performance within local implementation environment…",
+    "authors": [
+      "Jonathan R Medverd",
+      "Daniel Vergara",
+      "Kalpana M Kanal",
+      "Yee Seng Ng",
+      "Nathan M Cross"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064638/",
+    "published": "2026-11-13",
+    "source": "pubmed",
+    "source_id": "43064638",
+    "doi": "10.1067/j.cpradiol.2026.11.006",
+    "updated": "",
+    "venue": "Current problems in diagnostic radiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1016/j.oooo.2026.10.012": {
+    "title": "Practical application of 0.55T dental-dedicated MRI in dentistry and maxillofacial surgery.",
+    "abstract": "Dental imaging is routinely based on two-dimensional radiographs. There is increasing use of 3D imaging, mostly cone-beam CT and computed tomography accompanied by increasing radiation dose. Recent developments tailor radiation-free 0.55T m…",
+    "authors": [
+      "Manuel Weber",
+      "Leah Trumet",
+      "Armin Lutz",
+      "Martin Zeilinger",
+      "Eva Maier",
+      "Lara Berger",
+      "Claudius Mathy",
+      "Adrian Perez",
+      "Christopher Nobis",
+      "Matthias Pelka",
+      "Marco Kesting",
+      "Maximilian Hinsen",
+      "Konstantin Hellwig",
+      "Andreas Greiser",
+      "Michael Uder",
+      "Markus Kopp"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064623/",
+    "published": "2026-10-28",
+    "source": "pubmed",
+    "source_id": "43064623",
+    "doi": "10.1016/j.oooo.2026.10.012",
+    "updated": "",
+    "venue": "Oral surgery, oral medicine, oral pathology and oral radiology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1016/j.numecd.2026.105045": {
+    "title": "Inflammatory and cardiometabolic signatures of atherosclerotic cardiovascular disease (ASCVD) in rheumatoid arthritis: a machine learning analysis of NHANES 2003-2023.",
+    "abstract": "Rheumatoid arthritis (RA) is associated with excess atherosclerotic cardiovascular disease (ASCVD), but the relative importance of composite inflammatory and adiposity indices remains uncertain. We examined their associations with prevalent…",
+    "authors": [
+      "Hussein Alfakeer",
+      "Mohammed S Beshr",
+      "Ali M Abdelaziz",
+      "Muhammed Elhadi",
+      "Mamas A Mamas"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064569/",
+    "published": "2026-10-21",
+    "source": "pubmed",
+    "source_id": "43064569",
+    "doi": "10.1016/j.numecd.2026.105045",
+    "updated": "",
+    "venue": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1016/j.mayocp.2026.10.025": {
+    "title": "Patient-Staff Interaction in ED by Real-time Location System: Novel Predictors of In-hospital Mortality Enhancing APACHE III/APS in ICU Patients.",
+    "abstract": "To determine whether emergency department (ED) staff-patient interaction patterns captured by a real-time location system (RTLS) provide prognostic information beyond physiological abnormalities, predict in-hospital mortality, and improve t…",
+    "authors": [
+      "Xuechao Hao",
+      "Yue Dong",
+      "Derick Jones",
+      "Derek Rosin",
+      "Brian Pickering",
+      "Vitaly Herasevich"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064300/",
+    "published": "2027-11-13",
+    "source": "pubmed",
+    "source_id": "43064300",
+    "doi": "10.1016/j.mayocp.2026.10.025",
+    "updated": "",
+    "venue": "Mayo Clinic proceedings",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 2,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1097/wnr.0000000000002321": {
+    "title": "Evaluation of collateral circulation in symptomatic Moyamoya disease using artificial intelligence-assisted whole-brain computed tomography perfusion-derived dynamic four-dimensional computed tomography angiography.",
+    "abstract": "This study aimed to evaluate the clinical value of artificial intelligence-assisted dynamic four-dimensional computed tomography angiography (4D-CTA) reconstructed from whole-brain computed tomography perfusion (CTP) source data for assessi…",
+    "authors": [
+      "Fei Qiao",
+      "Weilan Zhang",
+      "Lele Wang",
+      "Juan Song"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063949/",
+    "published": "2026-11-11",
+    "source": "pubmed",
+    "source_id": "43063949",
+    "doi": "10.1097/wnr.0000000000002321",
+    "updated": "",
+    "venue": "Neuroreport",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "medical_models_edat",
+      "medical_models_crdt"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:16:19+00:00"
+  },
+  "doi:10.1136/bjo-2025-328523": {
+    "title": "Deep learning in population-based screening for glaucoma.",
+    "abstract": "",
+    "authors": [
+      "Joel Pitkänen",
+      "Ruben Hemelings",
+      "Oona Ahokas",
+      "Johanna M Liinamaa",
+      "Elina Karvonen",
+      "Katri Stoor",
+      "Marja Honkamo",
+      "Pasi Hägg",
+      "Anja Tuulonen",
+      "Ingeborg Stalmans",
+      "Ville Saarela"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41986089/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "41986089",
+    "doi": "10.1136/bjo-2025-328523",
+    "updated": "",
+    "venue": "The British journal of ophthalmology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_models_epdat"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:00+00:00"
+  },
+  "doi:10.1136/bjo-2025-329412": {
+    "title": "Cone structure and retinal sensitivity assessment in patients with red-green colour vision deficiency using multimodal imaging.",
+    "abstract": "",
+    "authors": [
+      "Jia Liang",
+      "Zhenhua Zou",
+      "Lu Chen",
+      "Xiangqing Hei",
+      "Yingying Diao",
+      "Lujia Feng",
+      "Yijing Zhuang",
+      "Wangting Li",
+      "Huiyan Zheng",
+      "Pan Xiao",
+      "Qiang Lin",
+      "Changfeng Pan",
+      "Jie Zhang",
+      "Wei Chi",
+      "Dong Fang",
+      "Shaochong Zhang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42031504/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "42031504",
+    "doi": "10.1136/bjo-2025-329412",
+    "updated": "",
+    "venue": "The British journal of ophthalmology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_agents_epdat"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:07+00:00"
+  },
+  "doi:10.1136/bjo-2025-328577": {
+    "title": "Structural and vascular correlates of visual field defects in branch retinal vein occlusion: a multimodal imaging study.",
+    "abstract": "",
+    "authors": [
+      "Kwang-Eon Choi",
+      "Eun Gyu Yoon",
+      "Hyun Woo Chung",
+      "Mihyun Choi",
+      "Seong-Woo Kim"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42014184/",
+    "published": "2026-11-20",
+    "source": "pubmed",
+    "source_id": "42014184",
+    "doi": "10.1136/bjo-2025-328577",
+    "updated": "",
+    "venue": "The British journal of ophthalmology",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "pubmed"
+    ],
+    "matched_queries": [
+      "eye_agents_epdat"
+    ],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:07+00:00"
+  },
+  "doi:10.64898/2026.08.04.26359728": {
+    "title": "Deep Learning of Fluorescence Lifetime Imaging Ophthalmoscopy for Type 2 Diabetes Classification",
+    "abstract": "PurposeTo evaluate whether fluorescence lifetime imaging ophthalmoscopy (FLIO) combined with deep learning can detect metabolic signatures for classification of type 2 diabetes mellitus (T2DM). DesignCross-sectional analysis of participants…",
+    "authors": [
+      "Kwon, S.",
+      "Lee, C. S.",
+      "Lee, A. Y.",
+      "Zhang, L."
+    ],
+    "url": "https://doi.org/10.64898/2026.08.04.26359728",
+    "published": "2026-11-15",
+    "source": "medrxiv",
+    "source_id": "10.64898/2026.08.04.26359728",
+    "doi": "10.64898/2026.08.04.26359728",
+    "updated": "2026-11-15",
+    "venue": "endocrinology",
+    "review_status": "preprint",
+    "version": "3",
+    "sources": [
+      "medrxiv"
+    ],
+    "matched_queries": [],
+    "domain": "Ophthalmic AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:30+00:00"
+  },
+  "doi:10.64898/2026.11.12.26367970": {
+    "title": "LabARIA: A Multi-Agent System for Integrative Analytics in Clinical Laboratories",
+    "abstract": "BackgroundLaboratory medicine underpins clinical decision-making across nearly every care setting. Clinical laboratory errors and delays can compromise diagnostic reliability and patient care. However, laboratory quality and operational dat…",
+    "authors": [
+      "Li, H.",
+      "Li, Y.",
+      "Xu, Z.",
+      "Pan, W.",
+      "Zhao, Z.",
+      "Cushing, M.",
+      "Wang, F.",
+      "Yang, H. S."
+    ],
+    "url": "https://doi.org/10.64898/2026.11.12.26367970",
+    "published": "2026-11-15",
+    "source": "medrxiv",
+    "source_id": "10.64898/2026.11.12.26367970",
+    "doi": "10.64898/2026.11.12.26367970",
+    "updated": "2026-11-15",
+    "venue": "health informatics",
+    "review_status": "preprint",
+    "version": "1",
+    "sources": [
+      "medrxiv"
+    ],
+    "matched_queries": [],
+    "domain": "Medical Agent",
+    "score": 3,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:30+00:00"
+  },
+  "doi:10.1038/s41746-026-03474-9": {
+    "title": "ECG foundation models for cardiovascular screening in a cohort of young competitive athletes",
+    "abstract": "Abstract AI-powered cardiac screening could evolve sports medicine by boosting accuracy, efficiency, and cost-effectiveness, with automated ECG interpretation based on foundation models becoming key for large-scale athlete screening. Before…",
+    "authors": [
+      "Christian Goelz",
+      "Simon Lang",
+      "Jenny Schlichtiger",
+      "Stefan Brunner",
+      "Solveig Vieluf"
+    ],
+    "url": "https://doi.org/10.1038/s41746-026-03474-9",
+    "published": "2026-11-21",
+    "source": "crossref",
+    "source_id": "10.1038/s41746-026-03474-9",
+    "doi": "10.1038/s41746-026-03474-9",
+    "updated": "",
+    "venue": "npj Digital Medicine",
+    "review_status": "peer_reviewed",
+    "version": "",
+    "sources": [
+      "crossref"
+    ],
+    "matched_queries": [
+      "npj Digital Medicine"
+    ],
+    "domain": "Medical AI",
+    "score": 1,
+    "rationale": "Keyword candidate only; requires reading and human/AI evidence verification",
+    "first_seen": "2026-11-21T22:17:30+00:00"
   }
 }
