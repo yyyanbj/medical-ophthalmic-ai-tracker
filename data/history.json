@@ -1,5 +1,13 @@
 [
   {
+    "date_la": "2026-11-25",
+    "run_at_utc": "2026-11-26T01:14:13+00:00",
+    "complete": true,
+    "new_count": 315,
+    "queries_completed": 75,
+    "queries_attempted": 75
+  },
+  {
     "date_la": "2026-11-24",
     "run_at_utc": "2026-11-25T01:32:02+00:00",
     "complete": true,
